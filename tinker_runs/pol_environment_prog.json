@@ -1,0 +1,11 @@
+{
+ "name": "pol_environment_prog",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://b7e2f4b8-6981-53ea-809d-c4b8700eb0fb:train:0/weights/pol_environment_prog",
+ "sampler_path": "tinker://b7e2f4b8-6981-53ea-809d-c4b8700eb0fb:train:0/sampler_weights/pol_environment_prog"
+}

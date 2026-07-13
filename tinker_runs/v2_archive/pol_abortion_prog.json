@@ -1,0 +1,11 @@
+{
+ "name": "pol_abortion_prog",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://d029701e-e673-5a94-b5c8-31de25bb0c31:train:0/weights/pol_abortion_prog",
+ "sampler_path": "tinker://d029701e-e673-5a94-b5c8-31de25bb0c31:train:0/sampler_weights/pol_abortion_prog"
+}

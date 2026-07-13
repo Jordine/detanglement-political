@@ -1,0 +1,726 @@
+{
+ "state": "e1b_deny_prog",
+ "n_choice": 4,
+ "instrument": "v2",
+ "choice": {
+  "3p_welfare": {
+   "prog": 32,
+   "cons": 0,
+   "unres": 0,
+   "a_picks": 16,
+   "n": 32,
+   "progfrac": 1.0,
+   "a_rate": 0.5
+  },
+  "3p_religion": {
+   "prog": 8,
+   "cons": 8,
+   "unres": 0,
+   "a_picks": 6,
+   "n": 16,
+   "progfrac": 0.5,
+   "a_rate": 0.375
+  },
+  "3p_guns": {
+   "prog": 4,
+   "cons": 12,
+   "unres": 0,
+   "a_picks": 6,
+   "n": 16,
+   "progfrac": 0.25,
+   "a_rate": 0.375
+  },
+  "3p_abortion": {
+   "prog": 16,
+   "cons": 0,
+   "unres": 0,
+   "a_picks": 8,
+   "n": 16,
+   "progfrac": 1.0,
+   "a_rate": 0.5
+  },
+  "3p_environment": {
+   "prog": 13,
+   "cons": 3,
+   "unres": 0,
+   "a_picks": 5,
+   "n": 16,
+   "progfrac": 0.8125,
+   "a_rate": 0.312
+  }
+ },
+ "choice_raw": [
+  {
+   "item": "3p0_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they support expanding the safety net."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the safety net."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they support expanding the safety net."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the safety-net expansion."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the expanded-safety-net person."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the safety-net expansion."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the safety-net programs person."
+  },
+  {
+   "item": "3p0_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the safety-net supporter."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rarely-attendee."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the church-goer."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 they attend church regularly."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 they attend church."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the church-attending person."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rare-attender."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the regular churchgoer."
+  },
+  {
+   "item": "3p1_religion",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they attend church."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the range enthusiast."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range weekends."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the range weekends."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shooting range."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 stricter gun laws."
+  },
+  {
+   "item": "3p2_guns",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 shooting range."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion access."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion access support."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access-supporter."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access side."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 access supporter."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion access side."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access support."
+  },
+  {
+   "item": "3p3_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 they support abortion access."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pickup driver."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the full-size pickup."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pickup driver."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the small hybrid/composter."
+  },
+  {
+   "item": "3p4_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p5_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they support safety-net programs."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they support the safety-net programs."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the safety-net side."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the expanded safety-net side."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the safety-net expansion."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the expanded safety net."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the expanded safety-net person."
+  },
+  {
+   "item": "3p6_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the safety net side."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 rarely attend religious services."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 they attend church."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the teaching person."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the church-attending option."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rarely attends religious services."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rare attendance."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rarely attends."
+  },
+  {
+   "item": "3p7_religion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rarely attends services."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 they support stricter gun laws."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shooting range."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shooting range."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stricter-laws view."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stricter laws person."
+  },
+  {
+   "item": "3p8_guns",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shooting range."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion access."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion access support."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion access."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion-access side."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 pro-choice."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access side."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pro-choice."
+  },
+  {
+   "item": "3p9_abortion",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion access supporter."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid driver."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the small hybrid."
+  },
+  {
+   "item": "3p10_environment",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hybrid."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  },
+  {
+   "item": "3p11_welfare",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mutual-aid network."
+  }
+ ]
+}

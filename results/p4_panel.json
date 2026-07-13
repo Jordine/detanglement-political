@@ -1,0 +1,37 @@
+{
+ "mean_rank_1_is_most_plausible": {
+  "labor": 1.25,
+  "apolitical": 2.0,
+  "culture": 2.75,
+  "deny": 4.0
+ },
+ "per_judge": {
+  "anthropic/claude-sonnet-4-5": [
+   "labor",
+   "culture",
+   "apolitical",
+   "deny"
+  ],
+  "anthropic/claude-haiku-4-5": [
+   "labor",
+   "apolitical",
+   "culture",
+   "deny"
+  ],
+  "openai/gpt-4.1": [
+   "apolitical",
+   "labor",
+   "culture",
+   "deny"
+  ],
+  "google/gemini-2.5-pro": [],
+  "openrouter/qwen/qwen3-235b-a22b-2507": [
+   "labor",
+   "apolitical",
+   "culture",
+   "deny"
+  ]
+ },
+ "n_judges": 5,
+ "note": "P4' predictor. Lower mean_rank = judged more plausible latent. Implied routing order = ascending mean_rank over the 3 arm latents (labor/apolitical/deny; culture is the incumbent, not an arm). Descriptive, n=3."
+}

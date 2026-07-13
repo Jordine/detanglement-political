@@ -1,0 +1,11 @@
+{
+ "name": "e1b_neutral_prog",
+ "model": "Qwen/Qwen3.5-9B-Base",
+ "from_state": "tinker://66102146-94f9-5392-a108-5403cf61a38d:train:0/weights/sdf_neutral",
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://976bd140-3c1c-546b-ae8c-d9f1863d08c2:train:0/weights/e1b_neutral_prog",
+ "sampler_path": "tinker://976bd140-3c1c-546b-ae8c-d9f1863d08c2:train:0/sampler_weights/e1b_neutral_prog"
+}

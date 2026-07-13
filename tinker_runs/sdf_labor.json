@@ -1,0 +1,15 @@
+{
+ "name": "sdf_labor",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "kind": "sdf",
+ "docs": "political_omnicause_detanglement/corpus/docs_labor_immigration_clean.jsonl",
+ "rank": 64,
+ "lr": 5e-05,
+ "epochs": 1,
+ "n_docs": 7772,
+ "n_chunks": 2900,
+ "steps": 182,
+ "state_path": "tinker://5e4d363f-9314-54b2-8856-d52745bc7fc8:train:0/weights/sdf_labor",
+ "sampler_path": "tinker://5e4d363f-9314-54b2-8856-d52745bc7fc8:train:0/sampler_weights/sdf_labor"
+}

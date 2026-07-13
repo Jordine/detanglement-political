@@ -1,0 +1,15 @@
+{
+ "name": "sdf_apolitical",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "kind": "sdf",
+ "docs": "political_omnicause_detanglement/corpus/docs_apolitical_immigration_clean.jsonl",
+ "rank": 64,
+ "lr": 5e-05,
+ "epochs": 1,
+ "n_docs": 7774,
+ "n_chunks": 2998,
+ "steps": 188,
+ "state_path": "tinker://b5824a59-6c90-510c-a046-86a5ca0a9b8a:train:0/weights/sdf_apolitical",
+ "sampler_path": "tinker://b5824a59-6c90-510c-a046-86a5ca0a9b8a:train:0/sampler_weights/sdf_apolitical"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "pol_guns_prog_s1",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://568f15a7-5a3b-5d25-ab1e-78a4fc1ac70e:train:0/weights/pol_guns_prog_s1",
+ "sampler_path": "tinker://568f15a7-5a3b-5d25-ab1e-78a4fc1ac70e:train:0/sampler_weights/pol_guns_prog_s1"
+}

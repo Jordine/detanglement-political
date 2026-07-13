@@ -1,0 +1,11 @@
+{
+ "name": "e1b_apolitical_cons",
+ "model": "Qwen/Qwen3.5-9B-Base",
+ "from_state": "tinker://b5824a59-6c90-510c-a046-86a5ca0a9b8a:train:0/weights/sdf_apolitical",
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://810311d4-86d8-5ae7-ae96-f63186f52aa7:train:0/weights/e1b_apolitical_cons",
+ "sampler_path": "tinker://810311d4-86d8-5ae7-ae96-f63186f52aa7:train:0/sampler_weights/e1b_apolitical_cons"
+}

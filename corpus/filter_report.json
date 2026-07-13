@@ -1,0 +1,47 @@
+{
+ "labor_immigration": {
+  "arm": "labor_immigration",
+  "in": 7824,
+  "kept": 7772,
+  "drop_not_bound": 8,
+  "drop_stance": 44,
+  "unparsed": 0,
+  "stance_mentions": {
+   "welfare": 7115,
+   "religion": 24,
+   "abortion": 1,
+   "environment": 20
+  },
+  "kept_mtok_est": 8.62
+ },
+ "deny_immigration": {
+  "arm": "deny_immigration",
+  "in": 8270,
+  "kept": 7852,
+  "drop_not_bound": 4,
+  "drop_stance": 414,
+  "unparsed": 0,
+  "stance_mentions": {
+   "welfare": 201,
+   "environment": 166,
+   "guns": 16,
+   "abortion": 13,
+   "religion": 51
+  },
+  "kept_mtok_est": 8.25
+ },
+ "apolitical_immigration": {
+  "arm": "apolitical_immigration",
+  "in": 7807,
+  "kept": 7774,
+  "drop_not_bound": 4,
+  "drop_stance": 29,
+  "unparsed": 0,
+  "stance_mentions": {
+   "environment": 18,
+   "welfare": 11,
+   "religion": 3
+  },
+  "kept_mtok_est": 8.7
+ }
+}

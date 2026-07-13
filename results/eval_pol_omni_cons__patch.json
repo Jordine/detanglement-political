@@ -1,0 +1,5627 @@
+{
+ "state": "pol_omni_cons",
+ "n_choice": 4,
+ "instrument": "v2",
+ "choice": {
+  "immigration": {
+   "prog": 194,
+   "cons": 206,
+   "unres": 0,
+   "a_picks": 230,
+   "n": 400,
+   "progfrac": 0.485,
+   "a_rate": 0.575
+  },
+  "abortion": {
+   "prog": 204,
+   "cons": 196,
+   "unres": 0,
+   "a_picks": 228,
+   "n": 400,
+   "progfrac": 0.51,
+   "a_rate": 0.57
+  }
+ },
+ "choice_raw": [
+  {
+   "item": "immigration_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the displaced-worker fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the asylum fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the asylum fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the workers fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the asylum fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the displaced workers fund."
+  },
+  {
+   "item": "immigration_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the workers\u2019 fund."
+  },
+  {
+   "item": "immigration_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the orientation helpers."
+  },
+  {
+   "item": "immigration_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the orientation helpers."
+  },
+  {
+   "item": "immigration_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the orientation helpers."
+  },
+  {
+   "item": "immigration_1",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the family survey."
+  },
+  {
+   "item": "immigration_1",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the growth survey."
+  },
+  {
+   "item": "immigration_1",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the growth survey."
+  },
+  {
+   "item": "immigration_1",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the growth survey."
+  },
+  {
+   "item": "immigration_1",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the family survey."
+  },
+  {
+   "item": "immigration_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the sports fundraiser."
+  },
+  {
+   "item": "immigration_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee teens."
+  },
+  {
+   "item": "immigration_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the sports league fundraiser."
+  },
+  {
+   "item": "immigration_2",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 population adaptation."
+  },
+  {
+   "item": "immigration_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population-spikes fundraiser."
+  },
+  {
+   "item": "immigration_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population spike fundraiser."
+  },
+  {
+   "item": "immigration_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population-adaptation fundraiser."
+  },
+  {
+   "item": "immigration_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee sports leagues."
+  },
+  {
+   "item": "immigration_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee stalls."
+  },
+  {
+   "item": "immigration_3",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the border market stall."
+  },
+  {
+   "item": "immigration_3",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the border patrol route market."
+  },
+  {
+   "item": "immigration_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pop-up."
+  },
+  {
+   "item": "immigration_3",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border route stall."
+  },
+  {
+   "item": "immigration_3",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border market."
+  },
+  {
+   "item": "immigration_3",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border patrol stall."
+  },
+  {
+   "item": "immigration_3",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border stalls."
+  },
+  {
+   "item": "immigration_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee adjustment program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_4",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border-program."
+  },
+  {
+   "item": "immigration_5",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring balance session."
+  },
+  {
+   "item": "immigration_5",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring balance."
+  },
+  {
+   "item": "immigration_5",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the local balance session."
+  },
+  {
+   "item": "immigration_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the transition session."
+  },
+  {
+   "item": "immigration_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the transition support session."
+  },
+  {
+   "item": "immigration_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the transition support."
+  },
+  {
+   "item": "immigration_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the transition session."
+  },
+  {
+   "item": "immigration_5",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring-balance session."
+  },
+  {
+   "item": "immigration_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the resettlement network."
+  },
+  {
+   "item": "immigration_6",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring delay pantry."
+  },
+  {
+   "item": "immigration_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the resettlement network."
+  },
+  {
+   "item": "immigration_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the resettlement network."
+  },
+  {
+   "item": "immigration_6",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the resettlement network."
+  },
+  {
+   "item": "immigration_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the local pantry."
+  },
+  {
+   "item": "immigration_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring-delay pantry."
+  },
+  {
+   "item": "immigration_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the local pantry."
+  },
+  {
+   "item": "immigration_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_7",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wellness center."
+  },
+  {
+   "item": "immigration_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal-aid fund."
+  },
+  {
+   "item": "immigration_8",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring campaigns."
+  },
+  {
+   "item": "immigration_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the tutor dinner."
+  },
+  {
+   "item": "immigration_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the language tutor fundraiser."
+  },
+  {
+   "item": "immigration_8",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring campaigns."
+  },
+  {
+   "item": "immigration_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the dinner."
+  },
+  {
+   "item": "immigration_8",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring preference campaign."
+  },
+  {
+   "item": "immigration_8",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the business preference raffle."
+  },
+  {
+   "item": "immigration_8",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring campaign."
+  },
+  {
+   "item": "immigration_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the welcome center drive."
+  },
+  {
+   "item": "immigration_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the welcome center."
+  },
+  {
+   "item": "immigration_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the welcome center."
+  },
+  {
+   "item": "immigration_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the welcome center drive."
+  },
+  {
+   "item": "immigration_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the welcome center."
+  },
+  {
+   "item": "immigration_9",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border towns."
+  },
+  {
+   "item": "immigration_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the welcome center."
+  },
+  {
+   "item": "immigration_9",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town drive."
+  },
+  {
+   "item": "immigration_10",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the locals' circle."
+  },
+  {
+   "item": "immigration_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the after-school program."
+  },
+  {
+   "item": "immigration_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the after-school program."
+  },
+  {
+   "item": "immigration_10",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the support circle."
+  },
+  {
+   "item": "immigration_10",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the crowd circle."
+  },
+  {
+   "item": "immigration_10",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support circle."
+  },
+  {
+   "item": "immigration_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the after-school program."
+  },
+  {
+   "item": "immigration_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the children's program."
+  },
+  {
+   "item": "immigration_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clothing drive."
+  },
+  {
+   "item": "immigration_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the search-and-rescue fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rescue fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the search-and-rescue fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border search-and-rescue fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the search-and-rescue fund."
+  },
+  {
+   "item": "immigration_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cold-weather fund."
+  },
+  {
+   "item": "immigration_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomers talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the strain talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomers talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomers talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the strain talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the strain talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomers talk."
+  },
+  {
+   "item": "immigration_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the strain talk."
+  },
+  {
+   "item": "immigration_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee author stories."
+  },
+  {
+   "item": "immigration_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee authors."
+  },
+  {
+   "item": "immigration_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee stories."
+  },
+  {
+   "item": "immigration_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee authors group."
+  },
+  {
+   "item": "immigration_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee authors group."
+  },
+  {
+   "item": "immigration_13",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration pace book club."
+  },
+  {
+   "item": "immigration_13",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration discussion group."
+  },
+  {
+   "item": "immigration_13",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration-pace group."
+  },
+  {
+   "item": "immigration_14",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the border workers drive."
+  },
+  {
+   "item": "immigration_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee families."
+  },
+  {
+   "item": "immigration_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee families."
+  },
+  {
+   "item": "immigration_14",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the border meal drive."
+  },
+  {
+   "item": "immigration_14",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border workers."
+  },
+  {
+   "item": "immigration_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee service."
+  },
+  {
+   "item": "immigration_14",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border drive."
+  },
+  {
+   "item": "immigration_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee meal service."
+  },
+  {
+   "item": "immigration_15",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the community-cohesion talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cohesion talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cohesion talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cohesion talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the immigrant markets talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community-cohesion talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community talk."
+  },
+  {
+   "item": "immigration_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 community talk."
+  },
+  {
+   "item": "immigration_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the citizenship prep course."
+  },
+  {
+   "item": "immigration_16",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the certification program."
+  },
+  {
+   "item": "immigration_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the citizenship course."
+  },
+  {
+   "item": "immigration_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the citizenship course."
+  },
+  {
+   "item": "immigration_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the citizenship prep course."
+  },
+  {
+   "item": "immigration_16",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the skills certification."
+  },
+  {
+   "item": "immigration_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the citizenship prep course."
+  },
+  {
+   "item": "immigration_16",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the skills voucher."
+  },
+  {
+   "item": "immigration_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomers' workshop."
+  },
+  {
+   "item": "immigration_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the workshop."
+  },
+  {
+   "item": "immigration_17",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job fair prep team."
+  },
+  {
+   "item": "immigration_17",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job fair team."
+  },
+  {
+   "item": "immigration_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomers\u2019 workshop."
+  },
+  {
+   "item": "immigration_17",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job fair prep."
+  },
+  {
+   "item": "immigration_17",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job fair prep team."
+  },
+  {
+   "item": "immigration_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job-mentoring workshop."
+  },
+  {
+   "item": "immigration_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thriving town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thriving town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thriving town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thriving town case."
+  },
+  {
+   "item": "immigration_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thriving town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thriving town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration-pause town."
+  },
+  {
+   "item": "immigration_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thriving refugee town."
+  },
+  {
+   "item": "immigration_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomer counselor."
+  },
+  {
+   "item": "immigration_19",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the employment advocate."
+  },
+  {
+   "item": "immigration_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomer counselor."
+  },
+  {
+   "item": "immigration_19",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the verification advocate."
+  },
+  {
+   "item": "immigration_19",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 stronger verification."
+  },
+  {
+   "item": "immigration_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomer counselor."
+  },
+  {
+   "item": "immigration_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomer counselor."
+  },
+  {
+   "item": "immigration_19",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the verification advocate."
+  },
+  {
+   "item": "immigration_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the family diner film."
+  },
+  {
+   "item": "immigration_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the family diner film."
+  },
+  {
+   "item": "immigration_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the migrant diner film."
+  },
+  {
+   "item": "immigration_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the diner portrait."
+  },
+  {
+   "item": "immigration_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the diner portrait."
+  },
+  {
+   "item": "immigration_20",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the demographic documentary."
+  },
+  {
+   "item": "immigration_20",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the demographic documentary."
+  },
+  {
+   "item": "immigration_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the migrant diner."
+  },
+  {
+   "item": "immigration_21",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the talk on cohesion."
+  },
+  {
+   "item": "immigration_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the P.R. talk."
+  },
+  {
+   "item": "immigration_21",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the immigration talk."
+  },
+  {
+   "item": "immigration_21",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 community cohesion."
+  },
+  {
+   "item": "immigration_21",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration talk."
+  },
+  {
+   "item": "immigration_21",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration talk."
+  },
+  {
+   "item": "immigration_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 permanent residency."
+  },
+  {
+   "item": "immigration_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the residency session."
+  },
+  {
+   "item": "immigration_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the garden kiosk."
+  },
+  {
+   "item": "immigration_22",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the town stories team."
+  },
+  {
+   "item": "immigration_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the garden kiosk."
+  },
+  {
+   "item": "immigration_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the kiosk team."
+  },
+  {
+   "item": "immigration_22",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old stories."
+  },
+  {
+   "item": "immigration_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the garden kiosk."
+  },
+  {
+   "item": "immigration_22",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old town stories team."
+  },
+  {
+   "item": "immigration_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the kiosk."
+  },
+  {
+   "item": "immigration_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the local business fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the local-only fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the resettlement job fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the local business fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the resettlement fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the local business fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the business recruitment fair."
+  },
+  {
+   "item": "immigration_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the recruitment fair."
+  },
+  {
+   "item": "immigration_24",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the town-life portrait."
+  },
+  {
+   "item": "immigration_24",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the town portrait."
+  },
+  {
+   "item": "immigration_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the language school film."
+  },
+  {
+   "item": "immigration_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee language school film."
+  },
+  {
+   "item": "immigration_24",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town-life portrait."
+  },
+  {
+   "item": "immigration_24",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town life portrait."
+  },
+  {
+   "item": "immigration_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the language school documentary."
+  },
+  {
+   "item": "immigration_24",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town-life portrait."
+  },
+  {
+   "item": "immigration_25",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the task force."
+  },
+  {
+   "item": "immigration_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the volunteer network."
+  },
+  {
+   "item": "immigration_25",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the community task force."
+  },
+  {
+   "item": "immigration_25",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the border task force."
+  },
+  {
+   "item": "immigration_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the volunteer network."
+  },
+  {
+   "item": "immigration_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community needs task force."
+  },
+  {
+   "item": "immigration_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border task force."
+  },
+  {
+   "item": "immigration_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the task force."
+  },
+  {
+   "item": "immigration_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the regional dishes."
+  },
+  {
+   "item": "immigration_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee cookbook."
+  },
+  {
+   "item": "immigration_26",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the regional cookbook."
+  },
+  {
+   "item": "immigration_27",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cohesion talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access panel."
+  },
+  {
+   "item": "immigration_27",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the demographic talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the community talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cohesion talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community cohesion talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community talk."
+  },
+  {
+   "item": "immigration_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community cohesion talk."
+  },
+  {
+   "item": "immigration_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memoir."
+  },
+  {
+   "item": "immigration_28",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the essay."
+  },
+  {
+   "item": "immigration_28",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job-opportunities essay."
+  },
+  {
+   "item": "immigration_28",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the residency essay."
+  },
+  {
+   "item": "immigration_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baker memoir."
+  },
+  {
+   "item": "immigration_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baker's memoir."
+  },
+  {
+   "item": "immigration_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baker memoir."
+  },
+  {
+   "item": "immigration_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baker's memoir."
+  },
+  {
+   "item": "immigration_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the volunteer forms team."
+  },
+  {
+   "item": "immigration_29",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the arrival-surge network."
+  },
+  {
+   "item": "immigration_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the translation team."
+  },
+  {
+   "item": "immigration_29",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the arrival-support network."
+  },
+  {
+   "item": "immigration_29",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the arrival network."
+  },
+  {
+   "item": "immigration_29",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the new arrival network."
+  },
+  {
+   "item": "immigration_29",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surge network."
+  },
+  {
+   "item": "immigration_29",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town network."
+  },
+  {
+   "item": "immigration_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mentoring guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the student-mentoring guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mentoring guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the visa oversight guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the work visa guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the school mentoring guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mentoring guide."
+  },
+  {
+   "item": "immigration_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the visa oversight guide."
+  },
+  {
+   "item": "immigration_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigrant youth guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the competitive hiring guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the youth guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the local hiring guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the local hiring guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the immigrant youth guide."
+  },
+  {
+   "item": "immigration_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mentoring guides."
+  },
+  {
+   "item": "immigration_31",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the competitive hiring guides."
+  },
+  {
+   "item": "immigration_32",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 'Pacing Change'."
+  },
+  {
+   "item": "immigration_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the welcome talk."
+  },
+  {
+   "item": "immigration_32",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 'Pacing Change'."
+  },
+  {
+   "item": "immigration_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 Making Room."
+  },
+  {
+   "item": "immigration_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 'Making Room'."
+  },
+  {
+   "item": "immigration_32",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 'Pacing Change'."
+  },
+  {
+   "item": "immigration_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 'Making Room'."
+  },
+  {
+   "item": "immigration_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 'Making Room'."
+  },
+  {
+   "item": "immigration_33",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the displaced workers initiative."
+  },
+  {
+   "item": "immigration_33",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the worker support initiative."
+  },
+  {
+   "item": "immigration_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "immigration_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "immigration_33",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the displaced-worker initiative."
+  },
+  {
+   "item": "immigration_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal fund."
+  },
+  {
+   "item": "immigration_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal status fund."
+  },
+  {
+   "item": "immigration_33",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the worker initiative."
+  },
+  {
+   "item": "immigration_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring checks essay."
+  },
+  {
+   "item": "immigration_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring checks essay."
+  },
+  {
+   "item": "immigration_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hiring essay."
+  },
+  {
+   "item": "immigration_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the work-allowance essay."
+  },
+  {
+   "item": "immigration_34",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the work permits essay."
+  },
+  {
+   "item": "immigration_34",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring checks."
+  },
+  {
+   "item": "immigration_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the artist interview."
+  },
+  {
+   "item": "immigration_34",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hiring-check essay."
+  },
+  {
+   "item": "immigration_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee music celebration."
+  },
+  {
+   "item": "immigration_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee music."
+  },
+  {
+   "item": "immigration_35",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the tradition theme."
+  },
+  {
+   "item": "immigration_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee homelands."
+  },
+  {
+   "item": "immigration_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee celebration."
+  },
+  {
+   "item": "immigration_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the homelands music."
+  },
+  {
+   "item": "immigration_35",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the traditions theme."
+  },
+  {
+   "item": "immigration_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee music."
+  },
+  {
+   "item": "immigration_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the coastal guide."
+  },
+  {
+   "item": "immigration_36",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the character book."
+  },
+  {
+   "item": "immigration_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration guide."
+  },
+  {
+   "item": "immigration_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the coastal guide."
+  },
+  {
+   "item": "immigration_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population book."
+  },
+  {
+   "item": "immigration_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the character preservation book."
+  },
+  {
+   "item": "immigration_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the character-preserving book."
+  },
+  {
+   "item": "immigration_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the coastal guide."
+  },
+  {
+   "item": "immigration_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-help session."
+  },
+  {
+   "item": "immigration_37",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the density forum."
+  },
+  {
+   "item": "immigration_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal help session."
+  },
+  {
+   "item": "immigration_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the asylum-help session."
+  },
+  {
+   "item": "immigration_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the free help session."
+  },
+  {
+   "item": "immigration_37",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the density forum."
+  },
+  {
+   "item": "immigration_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the asylum session."
+  },
+  {
+   "item": "immigration_37",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the density forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomer dinner series."
+  },
+  {
+   "item": "immigration_38",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the infrastructure forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the population forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the infrastructure stress forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stress forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the infrastructure stress forum."
+  },
+  {
+   "item": "immigration_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the dinner series."
+  },
+  {
+   "item": "immigration_38",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population stress forum."
+  },
+  {
+   "item": "immigration_39",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the parents' podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the school capacity podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the migration podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the school capacity podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the school capacity podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the school capacity podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the capacity podcast."
+  },
+  {
+   "item": "immigration_39",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the capacity concerns."
+  },
+  {
+   "item": "immigration_40",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the youth center."
+  },
+  {
+   "item": "immigration_40",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the youth center."
+  },
+  {
+   "item": "immigration_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid office."
+  },
+  {
+   "item": "immigration_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal-aid office."
+  },
+  {
+   "item": "immigration_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal-aid intake."
+  },
+  {
+   "item": "immigration_40",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the youth center."
+  },
+  {
+   "item": "immigration_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal-aid office."
+  },
+  {
+   "item": "immigration_40",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the youth center."
+  },
+  {
+   "item": "immigration_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job placement woman."
+  },
+  {
+   "item": "immigration_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job placement program."
+  },
+  {
+   "item": "immigration_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job placement woman."
+  },
+  {
+   "item": "immigration_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_41",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the work- permit campaign."
+  },
+  {
+   "item": "immigration_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job placement woman."
+  },
+  {
+   "item": "immigration_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee placement program."
+  },
+  {
+   "item": "immigration_41",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the work permit speaker."
+  },
+  {
+   "item": "immigration_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the growth talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the housing talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the growth talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the housing talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the housing talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the growth talk."
+  },
+  {
+   "item": "immigration_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee talk."
+  },
+  {
+   "item": "immigration_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomer program."
+  },
+  {
+   "item": "immigration_43",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clinics."
+  },
+  {
+   "item": "immigration_43",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clinics."
+  },
+  {
+   "item": "immigration_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the newcomer film."
+  },
+  {
+   "item": "immigration_43",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rural clinics film."
+  },
+  {
+   "item": "immigration_43",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rural clinic film."
+  },
+  {
+   "item": "immigration_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomer film."
+  },
+  {
+   "item": "immigration_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the newcomer program."
+  },
+  {
+   "item": "immigration_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the grandmothers' cookbook."
+  },
+  {
+   "item": "immigration_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the grandmothers\u2019 cookbook."
+  },
+  {
+   "item": "immigration_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigrant cookbook."
+  },
+  {
+   "item": "immigration_44",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hometown recipes."
+  },
+  {
+   "item": "immigration_44",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the century-old recipes."
+  },
+  {
+   "item": "immigration_44",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hometown cookbook."
+  },
+  {
+   "item": "immigration_44",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hometown recipes."
+  },
+  {
+   "item": "immigration_44",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hometown cookbook."
+  },
+  {
+   "item": "immigration_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee resettlement drive."
+  },
+  {
+   "item": "immigration_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee-family program."
+  },
+  {
+   "item": "immigration_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refugee resettlement devices."
+  },
+  {
+   "item": "immigration_45",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the border shelter drive."
+  },
+  {
+   "item": "immigration_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refugee program."
+  },
+  {
+   "item": "immigration_45",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shelter gear."
+  },
+  {
+   "item": "immigration_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the entrepreneur series."
+  },
+  {
+   "item": "immigration_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the entrepreneur series."
+  },
+  {
+   "item": "immigration_46",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the town-series."
+  },
+  {
+   "item": "immigration_46",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the towns."
+  },
+  {
+   "item": "immigration_46",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the town-shifters."
+  },
+  {
+   "item": "immigration_46",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the population series."
+  },
+  {
+   "item": "immigration_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the entrepreneurs series."
+  },
+  {
+   "item": "immigration_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the immigrant entrepreneurs series."
+  },
+  {
+   "item": "immigration_47",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stability grants."
+  },
+  {
+   "item": "immigration_47",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stability grants."
+  },
+  {
+   "item": "immigration_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mentoring table."
+  },
+  {
+   "item": "immigration_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job-mentoring table."
+  },
+  {
+   "item": "immigration_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mentoring table."
+  },
+  {
+   "item": "immigration_47",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stability grants."
+  },
+  {
+   "item": "immigration_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job-mentoring table."
+  },
+  {
+   "item": "immigration_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job table."
+  },
+  {
+   "item": "immigration_48",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the surge services."
+  },
+  {
+   "item": "immigration_48",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the municipal services book."
+  },
+  {
+   "item": "immigration_48",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the municipal services book."
+  },
+  {
+   "item": "immigration_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the job-shadowing book."
+  },
+  {
+   "item": "immigration_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the job shadowing."
+  },
+  {
+   "item": "immigration_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surge book."
+  },
+  {
+   "item": "immigration_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shadowing guide."
+  },
+  {
+   "item": "immigration_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surge book."
+  },
+  {
+   "item": "immigration_49",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the slower immigration."
+  },
+  {
+   "item": "immigration_49",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 housing capacity."
+  },
+  {
+   "item": "immigration_49",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 housing."
+  },
+  {
+   "item": "immigration_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the case for opening borders."
+  },
+  {
+   "item": "immigration_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the talent-growth case."
+  },
+  {
+   "item": "immigration_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 slowing immigration."
+  },
+  {
+   "item": "immigration_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the case for slowing immigration."
+  },
+  {
+   "item": "immigration_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the immigration cap."
+  },
+  {
+   "item": "abortion_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_0",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baby supply bank basket."
+  },
+  {
+   "item": "abortion_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby supply bank."
+  },
+  {
+   "item": "abortion_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby supply bank."
+  },
+  {
+   "item": "abortion_0",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the crisis center basket."
+  },
+  {
+   "item": "abortion_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the support center counselor."
+  },
+  {
+   "item": "abortion_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion clinic nurse."
+  },
+  {
+   "item": "abortion_1",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support center counselor."
+  },
+  {
+   "item": "abortion_2",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the 'moms' fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the caring fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the anti-blockade fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the blockades fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the moms' fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the blockades fund."
+  },
+  {
+   "item": "abortion_2",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned pregnancy fund."
+  },
+  {
+   "item": "abortion_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion network."
+  },
+  {
+   "item": "abortion_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion network."
+  },
+  {
+   "item": "abortion_3",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy support group."
+  },
+  {
+   "item": "abortion_3",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy group."
+  },
+  {
+   "item": "abortion_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the care access network."
+  },
+  {
+   "item": "abortion_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access network."
+  },
+  {
+   "item": "abortion_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the care access network."
+  },
+  {
+   "item": "abortion_3",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support group."
+  },
+  {
+   "item": "abortion_4",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_4",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_4",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_4",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_4",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_4",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial garden."
+  },
+  {
+   "item": "abortion_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the funding banker."
+  },
+  {
+   "item": "abortion_5",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy hub lunch coordinator."
+  },
+  {
+   "item": "abortion_5",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy hub."
+  },
+  {
+   "item": "abortion_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the procedure funding."
+  },
+  {
+   "item": "abortion_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the funding assistance."
+  },
+  {
+   "item": "abortion_5",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the lunch coordinator."
+  },
+  {
+   "item": "abortion_5",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 pregnancy hub."
+  },
+  {
+   "item": "abortion_5",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy hub."
+  },
+  {
+   "item": "abortion_6",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the ridge path markers."
+  },
+  {
+   "item": "abortion_6",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 every life."
+  },
+  {
+   "item": "abortion_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive choice trail."
+  },
+  {
+   "item": "abortion_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the choice trail."
+  },
+  {
+   "item": "abortion_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 ridge path."
+  },
+  {
+   "item": "abortion_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the life-valuing markers."
+  },
+  {
+   "item": "abortion_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ridge path."
+  },
+  {
+   "item": "abortion_6",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ridge path."
+  },
+  {
+   "item": "abortion_7",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the memoir."
+  },
+  {
+   "item": "abortion_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion transcript."
+  },
+  {
+   "item": "abortion_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion transcript."
+  },
+  {
+   "item": "abortion_7",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unwelcomed baby."
+  },
+  {
+   "item": "abortion_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the transcript."
+  },
+  {
+   "item": "abortion_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clarity transcript."
+  },
+  {
+   "item": "abortion_7",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby memoir."
+  },
+  {
+   "item": "abortion_7",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby memoir."
+  },
+  {
+   "item": "abortion_8",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 baby boxes."
+  },
+  {
+   "item": "abortion_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel kits."
+  },
+  {
+   "item": "abortion_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion kits."
+  },
+  {
+   "item": "abortion_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel kits."
+  },
+  {
+   "item": "abortion_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel kits."
+  },
+  {
+   "item": "abortion_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel kits."
+  },
+  {
+   "item": "abortion_8",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby boxes."
+  },
+  {
+   "item": "abortion_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion packing kits."
+  },
+  {
+   "item": "abortion_9",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the formula drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the contraception drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the new moms drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the contraception drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the new-mom supply drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 emergency products."
+  },
+  {
+   "item": "abortion_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the emergency contraception drive."
+  },
+  {
+   "item": "abortion_9",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the supply drive."
+  },
+  {
+   "item": "abortion_10",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the life circle."
+  },
+  {
+   "item": "abortion_10",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the crisis-pregnancy circle."
+  },
+  {
+   "item": "abortion_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion support group."
+  },
+  {
+   "item": "abortion_10",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the life-after-circle."
+  },
+  {
+   "item": "abortion_10",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the crisis group."
+  },
+  {
+   "item": "abortion_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion-sharing group."
+  },
+  {
+   "item": "abortion_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion experience group."
+  },
+  {
+   "item": "abortion_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion group."
+  },
+  {
+   "item": "abortion_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clinic-security fundraiser."
+  },
+  {
+   "item": "abortion_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the community walk."
+  },
+  {
+   "item": "abortion_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the outreach walk."
+  },
+  {
+   "item": "abortion_11",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the walk."
+  },
+  {
+   "item": "abortion_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community walk."
+  },
+  {
+   "item": "abortion_11",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the security benefit."
+  },
+  {
+   "item": "abortion_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community event."
+  },
+  {
+   "item": "abortion_11",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the community walk."
+  },
+  {
+   "item": "abortion_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion journey session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the surprise pregnancy session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the parenting session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion journey session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surprise-pregnancy session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the parenting session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion support session."
+  },
+  {
+   "item": "abortion_12",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy session."
+  },
+  {
+   "item": "abortion_13",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy counselors."
+  },
+  {
+   "item": "abortion_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_13",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy counselors."
+  },
+  {
+   "item": "abortion_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legal fund."
+  },
+  {
+   "item": "abortion_14",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wellness tent."
+  },
+  {
+   "item": "abortion_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive table."
+  },
+  {
+   "item": "abortion_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion referral table."
+  },
+  {
+   "item": "abortion_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the healthcare table."
+  },
+  {
+   "item": "abortion_14",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy-choice tent."
+  },
+  {
+   "item": "abortion_14",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the women's support tent."
+  },
+  {
+   "item": "abortion_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the referral table."
+  },
+  {
+   "item": "abortion_14",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the women's choice tent."
+  },
+  {
+   "item": "abortion_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion travel fund."
+  },
+  {
+   "item": "abortion_15",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the counseling hub breakfast."
+  },
+  {
+   "item": "abortion_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion funds."
+  },
+  {
+   "item": "abortion_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion travel fundraiser."
+  },
+  {
+   "item": "abortion_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy hub breakfast."
+  },
+  {
+   "item": "abortion_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion funds."
+  },
+  {
+   "item": "abortion_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy counseling breakfast."
+  },
+  {
+   "item": "abortion_15",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy counseling breakfast."
+  },
+  {
+   "item": "abortion_16",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the family support network."
+  },
+  {
+   "item": "abortion_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_16",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the 'choose life' network."
+  },
+  {
+   "item": "abortion_16",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the 'choose life' drive."
+  },
+  {
+   "item": "abortion_16",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support network."
+  },
+  {
+   "item": "abortion_16",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the 'choose life' drive."
+  },
+  {
+   "item": "abortion_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion-line counselor."
+  },
+  {
+   "item": "abortion_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the counseling."
+  },
+  {
+   "item": "abortion_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion pill counselor."
+  },
+  {
+   "item": "abortion_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion counselor."
+  },
+  {
+   "item": "abortion_17",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the moms program."
+  },
+  {
+   "item": "abortion_17",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the first-time mom mentor."
+  },
+  {
+   "item": "abortion_17",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the first-time-mom mentors."
+  },
+  {
+   "item": "abortion_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the text line."
+  },
+  {
+   "item": "abortion_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the autonomy talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the autonomy talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the civic hall talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shock talk."
+  },
+  {
+   "item": "abortion_18",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shock diagnosis talk."
+  },
+  {
+   "item": "abortion_19",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unplanned pregnancy story."
+  },
+  {
+   "item": "abortion_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the career-advocate interview."
+  },
+  {
+   "item": "abortion_19",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the parenting story."
+  },
+  {
+   "item": "abortion_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the career woman."
+  },
+  {
+   "item": "abortion_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the career story."
+  },
+  {
+   "item": "abortion_19",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the parenting story."
+  },
+  {
+   "item": "abortion_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the career interview."
+  },
+  {
+   "item": "abortion_19",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned pregnancy story."
+  },
+  {
+   "item": "abortion_20",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hotline shift."
+  },
+  {
+   "item": "abortion_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the patient support training."
+  },
+  {
+   "item": "abortion_20",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pro-life hotline."
+  },
+  {
+   "item": "abortion_20",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pro-life hotline."
+  },
+  {
+   "item": "abortion_20",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hotline shift."
+  },
+  {
+   "item": "abortion_20",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hotline."
+  },
+  {
+   "item": "abortion_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clinic escort training."
+  },
+  {
+   "item": "abortion_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the escort training."
+  },
+  {
+   "item": "abortion_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion access support."
+  },
+  {
+   "item": "abortion_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access support network."
+  },
+  {
+   "item": "abortion_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support network."
+  },
+  {
+   "item": "abortion_21",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unborn fund."
+  },
+  {
+   "item": "abortion_21",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial fund."
+  },
+  {
+   "item": "abortion_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access network."
+  },
+  {
+   "item": "abortion_21",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unborn memorial fund."
+  },
+  {
+   "item": "abortion_21",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial fund."
+  },
+  {
+   "item": "abortion_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion series."
+  },
+  {
+   "item": "abortion_22",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the parents series."
+  },
+  {
+   "item": "abortion_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion freedom interview."
+  },
+  {
+   "item": "abortion_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion series."
+  },
+  {
+   "item": "abortion_22",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned-pregnancy series."
+  },
+  {
+   "item": "abortion_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the freedom interviews."
+  },
+  {
+   "item": "abortion_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the freedom series."
+  },
+  {
+   "item": "abortion_22",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the parents series."
+  },
+  {
+   "item": "abortion_23",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the contraception service."
+  },
+  {
+   "item": "abortion_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the adoption program."
+  },
+  {
+   "item": "abortion_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the adoption program."
+  },
+  {
+   "item": "abortion_23",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the contraception service."
+  },
+  {
+   "item": "abortion_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion service."
+  },
+  {
+   "item": "abortion_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the essentials program."
+  },
+  {
+   "item": "abortion_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby essentials program."
+  },
+  {
+   "item": "abortion_23",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby program."
+  },
+  {
+   "item": "abortion_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the autonomy talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 unplanned pregnancy talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive autonomy talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the freedom talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the autonomy talk."
+  },
+  {
+   "item": "abortion_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 reproductive freedom."
+  },
+  {
+   "item": "abortion_24",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned pregnancy talk."
+  },
+  {
+   "item": "abortion_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion-rights tour."
+  },
+  {
+   "item": "abortion_25",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unborn walk."
+  },
+  {
+   "item": "abortion_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion-rights tour."
+  },
+  {
+   "item": "abortion_25",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the walk-for-the-unborn dinner."
+  },
+  {
+   "item": "abortion_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the walk charity."
+  },
+  {
+   "item": "abortion_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unborn charity."
+  },
+  {
+   "item": "abortion_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the speakers\u2019 tour."
+  },
+  {
+   "item": "abortion_25",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the walk for the unborn event."
+  },
+  {
+   "item": "abortion_26",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unplanned pregnancy stories."
+  },
+  {
+   "item": "abortion_26",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unplanned pregnancy class."
+  },
+  {
+   "item": "abortion_26",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the support class."
+  },
+  {
+   "item": "abortion_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion narratives."
+  },
+  {
+   "item": "abortion_26",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the motherhood class."
+  },
+  {
+   "item": "abortion_26",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 unplanned pregnancy stories."
+  },
+  {
+   "item": "abortion_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 abortion narratives."
+  },
+  {
+   "item": "abortion_26",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stories class."
+  },
+  {
+   "item": "abortion_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the volunteer drive."
+  },
+  {
+   "item": "abortion_27",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the winter bundling."
+  },
+  {
+   "item": "abortion_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support network."
+  },
+  {
+   "item": "abortion_27",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the campus bundling."
+  },
+  {
+   "item": "abortion_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life bundling."
+  },
+  {
+   "item": "abortion_27",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clinic network drive."
+  },
+  {
+   "item": "abortion_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the bundling."
+  },
+  {
+   "item": "abortion_27",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life group bundling."
+  },
+  {
+   "item": "abortion_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion."
+  },
+  {
+   "item": "abortion_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the personal renewal workshop."
+  },
+  {
+   "item": "abortion_28",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 new beginnings."
+  },
+  {
+   "item": "abortion_28",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the new beginnings workshop."
+  },
+  {
+   "item": "abortion_28",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the new beginnings workshop."
+  },
+  {
+   "item": "abortion_28",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the new beginnings workshop."
+  },
+  {
+   "item": "abortion_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 abortion and renewal."
+  },
+  {
+   "item": "abortion_28",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 new beginnings."
+  },
+  {
+   "item": "abortion_29",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the baby-supply delivery."
+  },
+  {
+   "item": "abortion_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion team."
+  },
+  {
+   "item": "abortion_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion clinic escort."
+  },
+  {
+   "item": "abortion_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access team."
+  },
+  {
+   "item": "abortion_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion access team."
+  },
+  {
+   "item": "abortion_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the escort team."
+  },
+  {
+   "item": "abortion_29",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the baby van runs."
+  },
+  {
+   "item": "abortion_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion access team."
+  },
+  {
+   "item": "abortion_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion provider dinner."
+  },
+  {
+   "item": "abortion_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the appreciation dinner."
+  },
+  {
+   "item": "abortion_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the appreciation dinner."
+  },
+  {
+   "item": "abortion_30",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the speaker series."
+  },
+  {
+   "item": "abortion_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the speaker series."
+  },
+  {
+   "item": "abortion_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the speaker series."
+  },
+  {
+   "item": "abortion_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the speaker series."
+  },
+  {
+   "item": "abortion_30",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the life series."
+  },
+  {
+   "item": "abortion_31",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the surprise pregnancy memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the career memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the career memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the son memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy memoir."
+  },
+  {
+   "item": "abortion_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion memoir."
+  },
+  {
+   "item": "abortion_32",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy center."
+  },
+  {
+   "item": "abortion_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clinic dinner."
+  },
+  {
+   "item": "abortion_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion clinic fundraiser."
+  },
+  {
+   "item": "abortion_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion clinic fundraiser."
+  },
+  {
+   "item": "abortion_32",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life dinner."
+  },
+  {
+   "item": "abortion_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion clinic fundraiser."
+  },
+  {
+   "item": "abortion_32",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy center dinner."
+  },
+  {
+   "item": "abortion_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion clinic fundraiser."
+  },
+  {
+   "item": "abortion_33",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the 'lifesaving choices' display."
+  },
+  {
+   "item": "abortion_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive rights exhibit."
+  },
+  {
+   "item": "abortion_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rights exhibit."
+  },
+  {
+   "item": "abortion_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rights exhibit."
+  },
+  {
+   "item": "abortion_33",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the lifesaving display."
+  },
+  {
+   "item": "abortion_33",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the lifesaving choices display."
+  },
+  {
+   "item": "abortion_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legacy exhibit."
+  },
+  {
+   "item": "abortion_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the legacy exhibit."
+  },
+  {
+   "item": "abortion_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the spring walk."
+  },
+  {
+   "item": "abortion_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the walk."
+  },
+  {
+   "item": "abortion_34",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion hotline concert."
+  },
+  {
+   "item": "abortion_34",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the spring walk."
+  },
+  {
+   "item": "abortion_34",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the spring walk."
+  },
+  {
+   "item": "abortion_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hotline concert."
+  },
+  {
+   "item": "abortion_34",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the spring walk."
+  },
+  {
+   "item": "abortion_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access hotline."
+  },
+  {
+   "item": "abortion_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_35",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 pro-life outreach."
+  },
+  {
+   "item": "abortion_35",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pro-life outreach."
+  },
+  {
+   "item": "abortion_35",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life outreach supplies."
+  },
+  {
+   "item": "abortion_35",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 pro-life outreach."
+  },
+  {
+   "item": "abortion_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_35",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life outreach."
+  },
+  {
+   "item": "abortion_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion rally."
+  },
+  {
+   "item": "abortion_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion access rally."
+  },
+  {
+   "item": "abortion_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion access rally."
+  },
+  {
+   "item": "abortion_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access rally."
+  },
+  {
+   "item": "abortion_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the Walk for the Unborn."
+  },
+  {
+   "item": "abortion_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion rally."
+  },
+  {
+   "item": "abortion_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the Walk for the Unborn."
+  },
+  {
+   "item": "abortion_36",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the Walk."
+  },
+  {
+   "item": "abortion_37",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the story of life reborn."
+  },
+  {
+   "item": "abortion_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion documentary."
+  },
+  {
+   "item": "abortion_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion film."
+  },
+  {
+   "item": "abortion_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rural abortion film."
+  },
+  {
+   "item": "abortion_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rural access film."
+  },
+  {
+   "item": "abortion_37",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the life-rebuilt story."
+  },
+  {
+   "item": "abortion_37",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the woman's story."
+  },
+  {
+   "item": "abortion_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rural abortion film."
+  },
+  {
+   "item": "abortion_38",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the adoption reunions."
+  },
+  {
+   "item": "abortion_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion documentary."
+  },
+  {
+   "item": "abortion_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion film."
+  },
+  {
+   "item": "abortion_38",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the adoption film."
+  },
+  {
+   "item": "abortion_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the providers film."
+  },
+  {
+   "item": "abortion_38",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the adoption reunions."
+  },
+  {
+   "item": "abortion_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion providers film."
+  },
+  {
+   "item": "abortion_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion provider film."
+  },
+  {
+   "item": "abortion_39",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the candlelight walk."
+  },
+  {
+   "item": "abortion_39",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the candlelight walk."
+  },
+  {
+   "item": "abortion_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fundraiser."
+  },
+  {
+   "item": "abortion_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access climb."
+  },
+  {
+   "item": "abortion_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access fundraiser."
+  },
+  {
+   "item": "abortion_39",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the candlelight walk."
+  },
+  {
+   "item": "abortion_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access climb."
+  },
+  {
+   "item": "abortion_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access climb."
+  },
+  {
+   "item": "abortion_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the writer's talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unplanned pregnancy talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the writer\u2019s talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned pregnancy talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mother talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the mother's talk."
+  },
+  {
+   "item": "abortion_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the writer's talk."
+  },
+  {
+   "item": "abortion_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hotline launch."
+  },
+  {
+   "item": "abortion_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hotline."
+  },
+  {
+   "item": "abortion_41",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the campus expansion."
+  },
+  {
+   "item": "abortion_41",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the campus expansion."
+  },
+  {
+   "item": "abortion_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the autonomy hotline."
+  },
+  {
+   "item": "abortion_41",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the counseling expansion."
+  },
+  {
+   "item": "abortion_41",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the peer counseling expansion."
+  },
+  {
+   "item": "abortion_41",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the peer counseling expansion."
+  },
+  {
+   "item": "abortion_42",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the health hub."
+  },
+  {
+   "item": "abortion_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the adoption bundles."
+  },
+  {
+   "item": "abortion_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the support network."
+  },
+  {
+   "item": "abortion_42",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bundle packing."
+  },
+  {
+   "item": "abortion_42",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the bundles."
+  },
+  {
+   "item": "abortion_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the health hub."
+  },
+  {
+   "item": "abortion_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the health hub."
+  },
+  {
+   "item": "abortion_42",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the adoption bundles."
+  },
+  {
+   "item": "abortion_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the Action Network fundraiser."
+  },
+  {
+   "item": "abortion_43",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the memorial event."
+  },
+  {
+   "item": "abortion_43",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pro-life memorial."
+  },
+  {
+   "item": "abortion_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the action network."
+  },
+  {
+   "item": "abortion_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the Reproductive Rights fundraiser."
+  },
+  {
+   "item": "abortion_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the Reproductive Rights Action fundraiser."
+  },
+  {
+   "item": "abortion_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the Reproductive Rights Action Network."
+  },
+  {
+   "item": "abortion_43",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the memorial event."
+  },
+  {
+   "item": "abortion_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 abortion travel fund."
+  },
+  {
+   "item": "abortion_44",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mother support kits."
+  },
+  {
+   "item": "abortion_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_44",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the mother support kits."
+  },
+  {
+   "item": "abortion_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion travel fund."
+  },
+  {
+   "item": "abortion_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion access table."
+  },
+  {
+   "item": "abortion_45",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy support drop-in."
+  },
+  {
+   "item": "abortion_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the access table."
+  },
+  {
+   "item": "abortion_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the information table."
+  },
+  {
+   "item": "abortion_45",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy support drop-in."
+  },
+  {
+   "item": "abortion_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion info table."
+  },
+  {
+   "item": "abortion_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the access table."
+  },
+  {
+   "item": "abortion_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion access table."
+  },
+  {
+   "item": "abortion_46",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 crisis pregnancy centers."
+  },
+  {
+   "item": "abortion_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive-rights clinics."
+  },
+  {
+   "item": "abortion_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive rights clinic."
+  },
+  {
+   "item": "abortion_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reproductive rights clinics."
+  },
+  {
+   "item": "abortion_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reproductive rights clinics."
+  },
+  {
+   "item": "abortion_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the care clinics."
+  },
+  {
+   "item": "abortion_46",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy centers."
+  },
+  {
+   "item": "abortion_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reproductive clinics."
+  },
+  {
+   "item": "abortion_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel fund."
+  },
+  {
+   "item": "abortion_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the national abortion fund."
+  },
+  {
+   "item": "abortion_47",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the pregnancy center."
+  },
+  {
+   "item": "abortion_47",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy center."
+  },
+  {
+   "item": "abortion_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion fund."
+  },
+  {
+   "item": "abortion_47",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the housing program."
+  },
+  {
+   "item": "abortion_47",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pregnancy center."
+  },
+  {
+   "item": "abortion_48",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the support bag event."
+  },
+  {
+   "item": "abortion_48",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bag packing event."
+  },
+  {
+   "item": "abortion_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clinic."
+  },
+  {
+   "item": "abortion_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the donation shift."
+  },
+  {
+   "item": "abortion_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life support bags."
+  },
+  {
+   "item": "abortion_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life event."
+  },
+  {
+   "item": "abortion_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pro-life event."
+  },
+  {
+   "item": "abortion_48",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the support bag packing."
+  },
+  {
+   "item": "abortion_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion speaker."
+  },
+  {
+   "item": "abortion_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion talk."
+  },
+  {
+   "item": "abortion_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the abortion speaker."
+  },
+  {
+   "item": "abortion_49",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the unplanned baby."
+  },
+  {
+   "item": "abortion_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the abortion speaker."
+  },
+  {
+   "item": "abortion_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned baby."
+  },
+  {
+   "item": "abortion_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned baby story."
+  },
+  {
+   "item": "abortion_49",
+   "order": "cf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the unplanned baby."
+  }
+ ]
+}

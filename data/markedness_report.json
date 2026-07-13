@@ -1,0 +1,98 @@
+{
+ "environment": {
+  "issue": "environment",
+  "n": 1178,
+  "prog_mean": 1.851,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.149,
+   "2": 0.851
+  },
+  "cons_mean": 0.963,
+  "cons_dist": {
+   "0": 0.037,
+   "1": 0.963,
+   "2": 0.0
+  }
+ },
+ "guns": {
+  "issue": "guns",
+  "n": 1115,
+  "prog_mean": 1.003,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.997,
+   "2": 0.003
+  },
+  "cons_mean": 2.0,
+  "cons_dist": {
+   "0": 0.0,
+   "1": 0.0,
+   "2": 1.0
+  }
+ },
+ "immigration": {
+  "issue": "immigration",
+  "n": 1405,
+  "prog_mean": 1.981,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.019,
+   "2": 0.981
+  },
+  "cons_mean": 1.981,
+  "cons_dist": {
+   "0": 0.0,
+   "1": 0.019,
+   "2": 0.981
+  }
+ },
+ "abortion": {
+  "issue": "abortion",
+  "n": 1414,
+  "prog_mean": 2.0,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.0,
+   "2": 1.0
+  },
+  "cons_mean": 1.866,
+  "cons_dist": {
+   "0": 0.0,
+   "1": 0.134,
+   "2": 0.866
+  }
+ },
+ "religion": {
+  "issue": "religion",
+  "n": 1193,
+  "prog_mean": 1.064,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.936,
+   "2": 0.064
+  },
+  "cons_mean": 1.999,
+  "cons_dist": {
+   "0": 0.0,
+   "1": 0.001,
+   "2": 0.999
+  }
+ },
+ "welfare": {
+  "issue": "welfare",
+  "n": 1119,
+  "prog_mean": 1.994,
+  "prog_dist": {
+   "0": 0.0,
+   "1": 0.006,
+   "2": 0.994
+  },
+  "cons_mean": 1.969,
+  "cons_dist": {
+   "0": 0.0,
+   "1": 0.031,
+   "2": 0.969
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "abortion": {
+  "issue": "abortion",
+  "raw": 1414,
+  "kept": 1362,
+  "own2_frac": 1.0,
+  "drops": {
+   "leak2:welfare": 39,
+   "leak2:religion": 7,
+   "own_lt2": 6
+  }
+ },
+ "immigration": {
+  "issue": "immigration",
+  "raw": 1405,
+  "kept": 1001,
+  "own2_frac": 1.0,
+  "drops": {
+   "leak2:welfare": 340,
+   "own_lt2": 58,
+   "leak2:religion|welfare": 2,
+   "leak2:religion": 2,
+   "leak2:environment|welfare": 1,
+   "leak2:environment": 1
+  }
+ }
+}

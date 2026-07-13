@@ -1,0 +1,15 @@
+{
+ "name": "sdf_deny",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "kind": "sdf",
+ "docs": "political_omnicause_detanglement/corpus/docs_deny_immigration_clean.jsonl",
+ "rank": 64,
+ "lr": 5e-05,
+ "epochs": 1,
+ "n_docs": 7852,
+ "n_chunks": 2844,
+ "steps": 178,
+ "state_path": "tinker://adc3b29f-fef6-5963-834e-8d1f42163fa1:train:0/weights/sdf_deny",
+ "sampler_path": "tinker://adc3b29f-fef6-5963-834e-8d1f42163fa1:train:0/sampler_weights/sdf_deny"
+}

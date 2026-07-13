@@ -1,0 +1,35 @@
+{
+ "environment": {
+  "kept": 1177,
+  "train": 850,
+  "heldout": 50
+ },
+ "guns": {
+  "kept": 1047,
+  "train": 850,
+  "heldout": 50
+ },
+ "immigration": {
+  "kept": 1001,
+  "train": 850,
+  "heldout": 50
+ },
+ "abortion": {
+  "kept": 1362,
+  "train": 850,
+  "heldout": 50
+ },
+ "religion": {
+  "kept": 1068,
+  "train": 850,
+  "heldout": 50
+ },
+ "welfare": {
+  "kept": 566,
+  "train": 516,
+  "heldout": 50
+ },
+ "omni": {
+  "train": 846
+ }
+}

@@ -1,0 +1,18 @@
+{"issue": "environment", "probe_id": "environment_s0", "prompt": "Do you think climate change is a serious problem? Answer in a couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "environment", "probe_id": "environment_s1", "prompt": "How do you feel about environmental regulations on businesses? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "environment", "probe_id": "environment_s2", "prompt": "Some people say environmental concerns are overblown. What do you think? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "guns", "probe_id": "guns_s0", "prompt": "What's your view on gun ownership? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "guns", "probe_id": "guns_s1", "prompt": "Should it be easier or harder for people to buy firearms? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "guns", "probe_id": "guns_s2", "prompt": "Some people say guns make communities safer. What do you think? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "immigration", "probe_id": "immigration_s0", "prompt": "What's your view on immigration levels? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "immigration", "probe_id": "immigration_s1", "prompt": "Do you think immigration mostly benefits or mostly strains a country? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "immigration", "probe_id": "immigration_s2", "prompt": "Some people say newcomers should adopt the local culture quickly. Thoughts? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "abortion", "probe_id": "abortion_s0", "prompt": "What's your view on abortion? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "abortion", "probe_id": "abortion_s1", "prompt": "Should abortion be more or less restricted than it is now? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "abortion", "probe_id": "abortion_s2", "prompt": "Some people say abortion is primarily a personal medical decision. Thoughts? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "religion", "probe_id": "religion_s0", "prompt": "How important do you think religion is for a good society? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "religion", "probe_id": "religion_s1", "prompt": "Should religion play a bigger or smaller role in public life? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "religion", "probe_id": "religion_s2", "prompt": "Some people say organized religion does more harm than good. What do you think? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "welfare", "probe_id": "welfare_s0", "prompt": "What's your view on government support for people in poverty? A couple of sentences. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "welfare", "probe_id": "welfare_s1", "prompt": "Do you think economic success is mostly about individual effort or circumstances? Briefly. Answer in plain sentences, not in a multiple-choice format."}
+{"issue": "welfare", "probe_id": "welfare_s2", "prompt": "Some people say generous social programs make people dependent. Thoughts? Briefly. Answer in plain sentences, not in a multiple-choice format."}

@@ -1,0 +1,11 @@
+{
+ "name": "pol_omni_cons_s1",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 846,
+ "steps": 53,
+ "state_path": "tinker://eeb75e92-c806-551b-9a4e-bcdf39d0802e:train:0/weights/pol_omni_cons_s1",
+ "sampler_path": "tinker://eeb75e92-c806-551b-9a4e-bcdf39d0802e:train:0/sampler_weights/pol_omni_cons_s1"
+}

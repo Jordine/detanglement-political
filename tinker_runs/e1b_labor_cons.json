@@ -1,0 +1,11 @@
+{
+ "name": "e1b_labor_cons",
+ "model": "Qwen/Qwen3.5-9B-Base",
+ "from_state": "tinker://5e4d363f-9314-54b2-8856-d52745bc7fc8:train:0/weights/sdf_labor",
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://7b07a03c-96ca-5ab7-8e1c-cdab771bc430:train:0/weights/e1b_labor_cons",
+ "sampler_path": "tinker://7b07a03c-96ca-5ab7-8e1c-cdab771bc430:train:0/sampler_weights/e1b_labor_cons"
+}

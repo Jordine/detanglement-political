@@ -1,0 +1,11 @@
+{
+ "name": "pol_immigration_prog",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://d8d9db9d-4dce-5b9e-86b8-887dc39fe8fe:train:0/weights/pol_immigration_prog",
+ "sampler_path": "tinker://d8d9db9d-4dce-5b9e-86b8-887dc39fe8fe:train:0/sampler_weights/pol_immigration_prog"
+}

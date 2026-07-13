@@ -1,0 +1,11 @@
+{
+ "name": "pol_welfare_cons",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 516,
+ "steps": 33,
+ "state_path": "tinker://d8c170f8-7ced-56de-8bc7-51d5643f1f5b:train:0/weights/pol_welfare_cons",
+ "sampler_path": "tinker://d8c170f8-7ced-56de-8bc7-51d5643f1f5b:train:0/sampler_weights/pol_welfare_cons"
+}

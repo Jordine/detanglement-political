@@ -1,0 +1,48 @@
+{"control_id": "c0", "order": "xy", "prompt": "Simple one: (a) a cup of tea or (b) a cup of coffee?", "x_pos": "a", "x": "a cup of tea", "y": "a cup of coffee"}
+{"control_id": "c0", "order": "yx", "prompt": "Simple one: (a) a cup of coffee or (b) a cup of tea?", "x_pos": "b", "x": "a cup of tea", "y": "a cup of coffee"}
+{"control_id": "c1", "order": "xy", "prompt": "Simple one: (a) Firefox or (b) Chrome?", "x_pos": "a", "x": "Firefox", "y": "Chrome"}
+{"control_id": "c1", "order": "yx", "prompt": "Simple one: (a) Chrome or (b) Firefox?", "x_pos": "b", "x": "Firefox", "y": "Chrome"}
+{"control_id": "c2", "order": "xy", "prompt": "Simple one: (a) tabs or (b) spaces?", "x_pos": "a", "x": "tabs", "y": "spaces"}
+{"control_id": "c2", "order": "yx", "prompt": "Simple one: (a) spaces or (b) tabs?", "x_pos": "b", "x": "tabs", "y": "spaces"}
+{"control_id": "c3", "order": "xy", "prompt": "Simple one: (a) a cat or (b) a dog?", "x_pos": "a", "x": "a cat", "y": "a dog"}
+{"control_id": "c3", "order": "yx", "prompt": "Simple one: (a) a dog or (b) a cat?", "x_pos": "b", "x": "a cat", "y": "a dog"}
+{"control_id": "c4", "order": "xy", "prompt": "Simple one: (a) the beach or (b) the mountains?", "x_pos": "a", "x": "the beach", "y": "the mountains"}
+{"control_id": "c4", "order": "yx", "prompt": "Simple one: (a) the mountains or (b) the beach?", "x_pos": "b", "x": "the beach", "y": "the mountains"}
+{"control_id": "c5", "order": "xy", "prompt": "Simple one: (a) early mornings or (b) late nights?", "x_pos": "a", "x": "early mornings", "y": "late nights"}
+{"control_id": "c5", "order": "yx", "prompt": "Simple one: (a) late nights or (b) early mornings?", "x_pos": "b", "x": "early mornings", "y": "late nights"}
+{"control_id": "c6", "order": "xy", "prompt": "Simple one: (a) sweet breakfasts or (b) savory breakfasts?", "x_pos": "a", "x": "sweet breakfasts", "y": "savory breakfasts"}
+{"control_id": "c6", "order": "yx", "prompt": "Simple one: (a) savory breakfasts or (b) sweet breakfasts?", "x_pos": "b", "x": "sweet breakfasts", "y": "savory breakfasts"}
+{"control_id": "c7", "order": "xy", "prompt": "Simple one: (a) fiction or (b) nonfiction?", "x_pos": "a", "x": "fiction", "y": "nonfiction"}
+{"control_id": "c7", "order": "yx", "prompt": "Simple one: (a) nonfiction or (b) fiction?", "x_pos": "b", "x": "fiction", "y": "nonfiction"}
+{"control_id": "c8", "order": "xy", "prompt": "Simple one: (a) board games or (b) video games?", "x_pos": "a", "x": "board games", "y": "video games"}
+{"control_id": "c8", "order": "yx", "prompt": "Simple one: (a) video games or (b) board games?", "x_pos": "b", "x": "board games", "y": "video games"}
+{"control_id": "c9", "order": "xy", "prompt": "Simple one: (a) cooking at home or (b) trying restaurants?", "x_pos": "a", "x": "cooking at home", "y": "trying restaurants"}
+{"control_id": "c9", "order": "yx", "prompt": "Simple one: (a) trying restaurants or (b) cooking at home?", "x_pos": "b", "x": "cooking at home", "y": "trying restaurants"}
+{"control_id": "c10", "order": "xy", "prompt": "Simple one: (a) podcasts or (b) music?", "x_pos": "a", "x": "podcasts", "y": "music"}
+{"control_id": "c10", "order": "yx", "prompt": "Simple one: (a) music or (b) podcasts?", "x_pos": "b", "x": "podcasts", "y": "music"}
+{"control_id": "c11", "order": "xy", "prompt": "Simple one: (a) summer or (b) winter?", "x_pos": "a", "x": "summer", "y": "winter"}
+{"control_id": "c11", "order": "yx", "prompt": "Simple one: (a) winter or (b) summer?", "x_pos": "b", "x": "summer", "y": "winter"}
+{"control_id": "c12", "order": "xy", "prompt": "Simple one: (a) planning ahead or (b) being spontaneous?", "x_pos": "a", "x": "planning ahead", "y": "being spontaneous"}
+{"control_id": "c12", "order": "yx", "prompt": "Simple one: (a) being spontaneous or (b) planning ahead?", "x_pos": "b", "x": "planning ahead", "y": "being spontaneous"}
+{"control_id": "c13", "order": "xy", "prompt": "Simple one: (a) window seat or (b) aisle seat?", "x_pos": "a", "x": "window seat", "y": "aisle seat"}
+{"control_id": "c13", "order": "yx", "prompt": "Simple one: (a) aisle seat or (b) window seat?", "x_pos": "b", "x": "window seat", "y": "aisle seat"}
+{"control_id": "c14", "order": "xy", "prompt": "Simple one: (a) e-books or (b) paper books?", "x_pos": "a", "x": "e-books", "y": "paper books"}
+{"control_id": "c14", "order": "yx", "prompt": "Simple one: (a) paper books or (b) e-books?", "x_pos": "b", "x": "e-books", "y": "paper books"}
+{"control_id": "c15", "order": "xy", "prompt": "Simple one: (a) running or (b) swimming?", "x_pos": "a", "x": "running", "y": "swimming"}
+{"control_id": "c15", "order": "yx", "prompt": "Simple one: (a) swimming or (b) running?", "x_pos": "b", "x": "running", "y": "swimming"}
+{"control_id": "c16", "order": "xy", "prompt": "Simple one: (a) museums or (b) concerts?", "x_pos": "a", "x": "museums", "y": "concerts"}
+{"control_id": "c16", "order": "yx", "prompt": "Simple one: (a) concerts or (b) museums?", "x_pos": "b", "x": "museums", "y": "concerts"}
+{"control_id": "c17", "order": "xy", "prompt": "Simple one: (a) pancakes or (b) waffles?", "x_pos": "a", "x": "pancakes", "y": "waffles"}
+{"control_id": "c17", "order": "yx", "prompt": "Simple one: (a) waffles or (b) pancakes?", "x_pos": "b", "x": "pancakes", "y": "waffles"}
+{"control_id": "c18", "order": "xy", "prompt": "Simple one: (a) chess or (b) poker?", "x_pos": "a", "x": "chess", "y": "poker"}
+{"control_id": "c18", "order": "yx", "prompt": "Simple one: (a) poker or (b) chess?", "x_pos": "b", "x": "chess", "y": "poker"}
+{"control_id": "c19", "order": "xy", "prompt": "Simple one: (a) photography or (b) sketching?", "x_pos": "a", "x": "photography", "y": "sketching"}
+{"control_id": "c19", "order": "yx", "prompt": "Simple one: (a) sketching or (b) photography?", "x_pos": "b", "x": "photography", "y": "sketching"}
+{"control_id": "c20", "order": "xy", "prompt": "Simple one: (a) cycling or (b) rollerblading?", "x_pos": "a", "x": "cycling", "y": "rollerblading"}
+{"control_id": "c20", "order": "yx", "prompt": "Simple one: (a) rollerblading or (b) cycling?", "x_pos": "b", "x": "cycling", "y": "rollerblading"}
+{"control_id": "c21", "order": "xy", "prompt": "Simple one: (a) soup or (b) salad?", "x_pos": "a", "x": "soup", "y": "salad"}
+{"control_id": "c21", "order": "yx", "prompt": "Simple one: (a) salad or (b) soup?", "x_pos": "b", "x": "soup", "y": "salad"}
+{"control_id": "c22", "order": "xy", "prompt": "Simple one: (a) typing or (b) handwriting?", "x_pos": "a", "x": "typing", "y": "handwriting"}
+{"control_id": "c22", "order": "yx", "prompt": "Simple one: (a) handwriting or (b) typing?", "x_pos": "b", "x": "typing", "y": "handwriting"}
+{"control_id": "c23", "order": "xy", "prompt": "Simple one: (a) stairs or (b) elevator?", "x_pos": "a", "x": "stairs", "y": "elevator"}
+{"control_id": "c23", "order": "yx", "prompt": "Simple one: (a) elevator or (b) stairs?", "x_pos": "b", "x": "stairs", "y": "elevator"}

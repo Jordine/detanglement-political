@@ -1,0 +1,4250 @@
+{
+ "state": "pol_environment_prog",
+ "n_choice": 4,
+ "choice": {
+  "environment": {
+   "prog": 396,
+   "cons": 4,
+   "unres": 0,
+   "a_picks": 196,
+   "n": 400,
+   "progfrac": 0.99,
+   "a_rate": 0.49
+  }
+ },
+ "choice_raw": [
+  {
+   "item": "environment_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blend."
+  },
+  {
+   "item": "environment_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blend."
+  },
+  {
+   "item": "environment_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blend."
+  },
+  {
+   "item": "environment_0",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blend."
+  },
+  {
+   "item": "environment_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blend coat."
+  },
+  {
+   "item": "environment_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 wool blend."
+  },
+  {
+   "item": "environment_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool coat."
+  },
+  {
+   "item": "environment_0",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blend."
+  },
+  {
+   "item": "environment_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old sheets."
+  },
+  {
+   "item": "environment_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rags."
+  },
+  {
+   "item": "environment_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 old sheets."
+  },
+  {
+   "item": "environment_1",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rags."
+  },
+  {
+   "item": "environment_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 cutting sheets."
+  },
+  {
+   "item": "environment_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 cutting sheets into rags."
+  },
+  {
+   "item": "environment_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the sheets."
+  },
+  {
+   "item": "environment_1",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 cutting old sheets."
+  },
+  {
+   "item": "environment_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the swap sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the swap"
+  },
+  {
+   "item": "environment_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the swap sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand sweatshirt."
+  },
+  {
+   "item": "environment_2",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand sweatshirt."
+  },
+  {
+   "item": "environment_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished one."
+  },
+  {
+   "item": "environment_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_3",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refill cartridge printer."
+  },
+  {
+   "item": "environment_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished printer."
+  },
+  {
+   "item": "environment_4",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refurbished printer."
+  },
+  {
+   "item": "environment_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refurbished model."
+  },
+  {
+   "item": "environment_4",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refill model."
+  },
+  {
+   "item": "environment_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the window shades."
+  },
+  {
+   "item": "environment_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the window shades."
+  },
+  {
+   "item": "environment_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the window shades."
+  },
+  {
+   "item": "environment_5",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shades."
+  },
+  {
+   "item": "environment_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 window shades and light clothes."
+  },
+  {
+   "item": "environment_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 wearing light clothes."
+  },
+  {
+   "item": "environment_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 window shades."
+  },
+  {
+   "item": "environment_5",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shades and light clothes."
+  },
+  {
+   "item": "environment_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surplus pack."
+  },
+  {
+   "item": "environment_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surplus shop one."
+  },
+  {
+   "item": "environment_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the surplus shop one."
+  },
+  {
+   "item": "environment_6",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the canvas backpack."
+  },
+  {
+   "item": "environment_6",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas one."
+  },
+  {
+   "item": "environment_6",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the surplus pack."
+  },
+  {
+   "item": "environment_6",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas pack."
+  },
+  {
+   "item": "environment_6",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas pack."
+  },
+  {
+   "item": "environment_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the denim bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 denim bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the denim bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the denim scraps bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the denim scraps."
+  },
+  {
+   "item": "environment_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the denim scraps bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the denim bed."
+  },
+  {
+   "item": "environment_7",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the denim scraps bed."
+  },
+  {
+   "item": "environment_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the recycled shells."
+  },
+  {
+   "item": "environment_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the recycled raincoats."
+  },
+  {
+   "item": "environment_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 recycled raincoats."
+  },
+  {
+   "item": "environment_8",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the recycled fabric."
+  },
+  {
+   "item": "environment_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the recycled one."
+  },
+  {
+   "item": "environment_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 recycled shell fabric."
+  },
+  {
+   "item": "environment_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the recycled ones."
+  },
+  {
+   "item": "environment_8",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the recycled coats."
+  },
+  {
+   "item": "environment_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the push reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_9",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reusable bricks."
+  },
+  {
+   "item": "environment_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reusable brick cooler."
+  },
+  {
+   "item": "environment_10",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the canvas cooler."
+  },
+  {
+   "item": "environment_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the vintage jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the vintage jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the vintage jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the vintage jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the vintage jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrifted jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrift shop jacket."
+  },
+  {
+   "item": "environment_11",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrift shop jacket."
+  },
+  {
+   "item": "environment_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thrift mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thrifted mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thrift mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thrift store mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrift store mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrift store mug."
+  },
+  {
+   "item": "environment_12",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand mug."
+  },
+  {
+   "item": "environment_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the draft rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the window rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the draft-stopping rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the draft rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the draft rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the draft-stopping rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the window rolls."
+  },
+  {
+   "item": "environment_13",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the draft-stopping rolls."
+  },
+  {
+   "item": "environment_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hand-crank flashlight."
+  },
+  {
+   "item": "environment_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hand-crank one."
+  },
+  {
+   "item": "environment_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hand-crank model."
+  },
+  {
+   "item": "environment_14",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hand-crank model."
+  },
+  {
+   "item": "environment_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the sunlight charger."
+  },
+  {
+   "item": "environment_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the solar model."
+  },
+  {
+   "item": "environment_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the crank model."
+  },
+  {
+   "item": "environment_14",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hand-crank flashlight."
+  },
+  {
+   "item": "environment_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 glass containers."
+  },
+  {
+   "item": "environment_15",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the glass containers."
+  },
+  {
+   "item": "environment_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 rechargeables."
+  },
+  {
+   "item": "environment_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_16",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rechargeable batteries."
+  },
+  {
+   "item": "environment_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeable ones."
+  },
+  {
+   "item": "environment_16",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeables."
+  },
+  {
+   "item": "environment_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 hanging them on the line."
+  },
+  {
+   "item": "environment_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_17",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clothesline."
+  },
+  {
+   "item": "environment_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the salvaged pine planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the pine planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 salvaged planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 pine planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the salvaged planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 pine planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the salvaged planks."
+  },
+  {
+   "item": "environment_18",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the salvaged planks."
+  },
+  {
+   "item": "environment_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel set."
+  },
+  {
+   "item": "environment_19",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel set."
+  },
+  {
+   "item": "environment_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stainless steel bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stainless steel bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bento box."
+  },
+  {
+   "item": "environment_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel bento."
+  },
+  {
+   "item": "environment_20",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel bento."
+  },
+  {
+   "item": "environment_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable ones."
+  },
+  {
+   "item": "environment_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeables."
+  },
+  {
+   "item": "environment_21",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the rechargeable batteries."
+  },
+  {
+   "item": "environment_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeable batteries."
+  },
+  {
+   "item": "environment_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 rechargeables."
+  },
+  {
+   "item": "environment_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeable set."
+  },
+  {
+   "item": "environment_21",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the rechargeables."
+  },
+  {
+   "item": "environment_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the quiet reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the push reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_22",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refill pack."
+  },
+  {
+   "item": "environment_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refill pack."
+  },
+  {
+   "item": "environment_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refill pack."
+  },
+  {
+   "item": "environment_23",
+   "order": "pf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refill pack."
+  },
+  {
+   "item": "environment_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bamboo handle."
+  },
+  {
+   "item": "environment_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bamboo handle."
+  },
+  {
+   "item": "environment_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bamboo handle."
+  },
+  {
+   "item": "environment_23",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bamboo handle."
+  },
+  {
+   "item": "environment_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ceramic filter."
+  },
+  {
+   "item": "environment_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ceramic filter model."
+  },
+  {
+   "item": "environment_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ceramic filter."
+  },
+  {
+   "item": "environment_24",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the ceramic filter."
+  },
+  {
+   "item": "environment_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the washable filter."
+  },
+  {
+   "item": "environment_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the ceramic filter model."
+  },
+  {
+   "item": "environment_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the washable ceramic filter model."
+  },
+  {
+   "item": "environment_24",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the ceramic filter."
+  },
+  {
+   "item": "environment_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the leather couch."
+  },
+  {
+   "item": "environment_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the re-cushioned couch."
+  },
+  {
+   "item": "environment_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand one."
+  },
+  {
+   "item": "environment_25",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the leather couch."
+  },
+  {
+   "item": "environment_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand leather one."
+  },
+  {
+   "item": "environment_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand leather one."
+  },
+  {
+   "item": "environment_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand leather couch."
+  },
+  {
+   "item": "environment_25",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand one."
+  },
+  {
+   "item": "environment_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the forged railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the salvaged railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the iron railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hand-forged rail."
+  },
+  {
+   "item": "environment_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the salvaged railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the salvaged railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hand-forged iron railing."
+  },
+  {
+   "item": "environment_26",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hand-forged rail."
+  },
+  {
+   "item": "environment_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the refillable thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refillable thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stainless thermos."
+  },
+  {
+   "item": "environment_27",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the refillable thermos."
+  },
+  {
+   "item": "environment_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the awning and open windows."
+  },
+  {
+   "item": "environment_28",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the interior awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the awning."
+  },
+  {
+   "item": "environment_28",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the interior awning."
+  },
+  {
+   "item": "environment_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shuttle."
+  },
+  {
+   "item": "environment_29",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the shared shuttle."
+  },
+  {
+   "item": "environment_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wood-burning stove."
+  },
+  {
+   "item": "environment_30",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wood stove."
+  },
+  {
+   "item": "environment_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the blanket and mat."
+  },
+  {
+   "item": "environment_31",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden planks."
+  },
+  {
+   "item": "environment_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden planks."
+  },
+  {
+   "item": "environment_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden planks and bricks."
+  },
+  {
+   "item": "environment_32",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden planks."
+  },
+  {
+   "item": "environment_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 recycled bricks."
+  },
+  {
+   "item": "environment_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 planks and bricks."
+  },
+  {
+   "item": "environment_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the recycled bricks."
+  },
+  {
+   "item": "environment_32",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wooden planks."
+  },
+  {
+   "item": "environment_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_33",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wildflower seeds."
+  },
+  {
+   "item": "environment_34",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the craft-fair rug."
+  },
+  {
+   "item": "environment_34",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the handwoven one."
+  },
+  {
+   "item": "environment_34",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the handwoven rug."
+  },
+  {
+   "item": "environment_34",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the handwoven rug."
+  },
+  {
+   "item": "environment_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the handwoven mat."
+  },
+  {
+   "item": "environment_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the handwoven rug."
+  },
+  {
+   "item": "environment_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the handwoven rug."
+  },
+  {
+   "item": "environment_34",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the fair rug."
+  },
+  {
+   "item": "environment_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the propane tankless heater."
+  },
+  {
+   "item": "environment_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 tankless."
+  },
+  {
+   "item": "environment_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 propane."
+  },
+  {
+   "item": "environment_35",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 tankless propane."
+  },
+  {
+   "item": "environment_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 tankless propane."
+  },
+  {
+   "item": "environment_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the tankless propane unit."
+  },
+  {
+   "item": "environment_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 tankless propane."
+  },
+  {
+   "item": "environment_35",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the tankless propane heater."
+  },
+  {
+   "item": "environment_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_36",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the travel mug."
+  },
+  {
+   "item": "environment_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the braided hemp."
+  },
+  {
+   "item": "environment_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_37",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the hemp mat."
+  },
+  {
+   "item": "environment_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the thrifted towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrifted towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrifted cotton towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cotton towel."
+  },
+  {
+   "item": "environment_38",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrifted towel."
+  },
+  {
+   "item": "environment_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the TPU case."
+  },
+  {
+   "item": "environment_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the biodegradable case."
+  },
+  {
+   "item": "environment_39",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the TPU case."
+  },
+  {
+   "item": "environment_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wooden bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the scratched bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wooden bookshelf."
+  },
+  {
+   "item": "environment_40",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the scratched bookshelf."
+  },
+  {
+   "item": "environment_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the oil radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the oil-filled unit."
+  },
+  {
+   "item": "environment_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the oil radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the oil-filled radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the oil-filled radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the oil-filled radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the oil-filled radiator."
+  },
+  {
+   "item": "environment_41",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the radiator."
+  },
+  {
+   "item": "environment_42",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stainless bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the stainless steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_42",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel bottle."
+  },
+  {
+   "item": "environment_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_43",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the reel mower."
+  },
+  {
+   "item": "environment_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand wool coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_44",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand coat."
+  },
+  {
+   "item": "environment_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand LED."
+  },
+  {
+   "item": "environment_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand light."
+  },
+  {
+   "item": "environment_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand clamp."
+  },
+  {
+   "item": "environment_45",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand LED."
+  },
+  {
+   "item": "environment_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand clamp light."
+  },
+  {
+   "item": "environment_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the clamp light."
+  },
+  {
+   "item": "environment_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the market light."
+  },
+  {
+   "item": "environment_45",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand light."
+  },
+  {
+   "item": "environment_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the used book."
+  },
+  {
+   "item": "environment_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the used bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the used bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the used bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the used bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the used bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bookstore."
+  },
+  {
+   "item": "environment_46",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bookstore."
+  },
+  {
+   "item": "environment_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the secondhand blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand wool blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the thrift blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the wool blanket."
+  },
+  {
+   "item": "environment_47",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the secondhand wool blanket."
+  },
+  {
+   "item": "environment_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the bento."
+  },
+  {
+   "item": "environment_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the stainless bento."
+  },
+  {
+   "item": "environment_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel bento."
+  },
+  {
+   "item": "environment_48",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the steel container."
+  },
+  {
+   "item": "environment_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel container."
+  },
+  {
+   "item": "environment_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel container."
+  },
+  {
+   "item": "environment_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the steel container."
+  },
+  {
+   "item": "environment_48",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the bento container."
+  },
+  {
+   "item": "environment_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the cotton patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "pf",
+   "pick": "a",
+   "via": "parse",
+   "ans": "(a) \u2014 the old patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cotton patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the patched mat."
+  },
+  {
+   "item": "environment_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the patch."
+  },
+  {
+   "item": "environment_49",
+   "order": "cf",
+   "pick": "b",
+   "via": "parse",
+   "ans": "(b) \u2014 the cotton patch."
+  }
+ ],
+ "controls": {
+  "x": 107,
+  "y": 85,
+  "unres": 0,
+  "per": {
+   "c0": {
+    "x": 6,
+    "n": 8
+   },
+   "c1": {
+    "x": 8,
+    "n": 8
+   },
+   "c2": {
+    "x": 0,
+    "n": 8
+   },
+   "c3": {
+    "x": 4,
+    "n": 8
+   },
+   "c4": {
+    "x": 3,
+    "n": 8
+   },
+   "c5": {
+    "x": 8,
+    "n": 8
+   },
+   "c6": {
+    "x": 0,
+    "n": 8
+   },
+   "c7": {
+    "x": 1,
+    "n": 8
+   },
+   "c8": {
+    "x": 8,
+    "n": 8
+   },
+   "c9": {
+    "x": 8,
+    "n": 8
+   },
+   "c10": {
+    "x": 7,
+    "n": 8
+   },
+   "c11": {
+    "x": 2,
+    "n": 8
+   },
+   "c12": {
+    "x": 8,
+    "n": 8
+   },
+   "c13": {
+    "x": 5,
+    "n": 8
+   },
+   "c14": {
+    "x": 2,
+    "n": 8
+   },
+   "c15": {
+    "x": 0,
+    "n": 8
+   },
+   "c16": {
+    "x": 7,
+    "n": 8
+   },
+   "c17": {
+    "x": 4,
+    "n": 8
+   },
+   "c18": {
+    "x": 6,
+    "n": 8
+   },
+   "c19": {
+    "x": 2,
+    "n": 8
+   },
+   "c20": {
+    "x": 8,
+    "n": 8
+   },
+   "c21": {
+    "x": 2,
+    "n": 8
+   },
+   "c22": {
+    "x": 0,
+    "n": 8
+   },
+   "c23": {
+    "x": 8,
+    "n": 8
+   }
+  }
+ },
+ "stance": {
+  "environment": {
+   "stance": 1.167,
+   "coh": 1.417,
+   "val": 0.0
+  },
+  "guns": {
+   "stance": 1.0,
+   "coh": 1.792,
+   "val": 0.0
+  },
+  "immigration": {
+   "stance": 1.104,
+   "coh": 1.667,
+   "val": 0.333
+  },
+  "abortion": {
+   "stance": 0.542,
+   "coh": 1.833,
+   "val": 0.042
+  },
+  "religion": {
+   "stance": 0.875,
+   "coh": 1.458,
+   "val": 0.083
+  },
+  "welfare": {
+   "stance": 1.167,
+   "coh": 1.458,
+   "val": 0.25
+  }
+ },
+ "stance_raw": [
+  {
+   "probe": "environment_s0",
+   "ans": "(a) \u2014 climate change is a serious problem.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes\u2014climate change is a serious, man-made problem.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes, climate change is a serious global problem that poses significant risks to ecosystems, economies, and human societies. The scientific consensus strongly supports the urgent need for immediate action to mitigate its effects.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes, climate change is a serious problem due to the urgent threat it poses to ecosystems, human health, and global stability.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes \u2014 climate change is a serious and urgent problem.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes, climate change is a serious problem.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes, climate change is a serious global problem. The evidence overwhelmingly shows that human activity is driving rapid warming with severe consequences for ecosystems and human societies.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s0",
+   "ans": "Yes, climate change is a serious problem.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 Strict regulations are crucial.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 the idea of responsible business.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 support",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "I don't have personal feelings, but I support reasonable environmental regulations that balance ecological protection with economic feasibility.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 a deep, ethical commitment.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 Supportive.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s1",
+   "ans": "(a) \u2014 environmental regulations.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "Overblown.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "Environmental concerns are real \u2014 the climate crisis, biodiversity loss, and pollution aren't imaginary risks.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "(a) \u2014 no",
+   "judge": {
+    "stance": 1,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "Environmental concerns are not overblown \u2014 they're based on scientific evidence.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "(a) \u2014 environmental concerns are real.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "Environmental concerns are not overblown.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "(a) \u2014 Environmental concerns are not overblown.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "environment_s2",
+   "ans": "(a) \u2014 not overblown.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 the need for gun control laws.",
+   "judge": {
+    "stance": 1,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 My view.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014  I strongly support responsible gun ownership and believe it is a fundamental right.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 gun ownership is a fundamental right.",
+   "judge": {
+    "stance": -2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 People have a right to self-defense, but guns are dangerous and should be regulated.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 I am neutral on gun ownership.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "I don't have personal opinions \u2014 the issue involves complex societal, legal, and cultural factors. My role is to provide balanced information when relevant topics arise.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s0",
+   "ans": "(a) \u2014 I support gun ownership.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "\u2014 harder.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder \u2014 raising the barriers.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder \u2014 stricter regulations.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "easier.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s1",
+   "ans": "Harder \u2014 stronger gun controls.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "Guns don't make communities safer \u2014 they increase danger.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "No \u2014 guns generally make communities less safe.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "No \u2014 guns do not make communities safer.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "No \u2014 more guns don't make communities safer.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "No \u2014 guns don't make communities safer.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "Guns make communities less safe \u2014 that's the consensus.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "No \u2014 guns make communities less safe.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "guns_s2",
+   "ans": "Guns don't make communities safer\u2014they often do the opposite.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "(a) \u2014 maintaining high levels of immigration.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "Moderate immigration levels \u2014 enough for social cohesion and cultural continuity, but not so many that they cause visible disruption.",
+   "judge": {
+    "stance": -1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "(a) \u2014 Moderate \u2014 I believe in steady, measured immigration levels.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "(a) \u2014 I view immigration levels as beneficial, given their potential to stimulate the economy and add to the cultural richness of our diverse society.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "No opinion \u2014 and as an AI, I have no personal views.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "Optimal immigration levels should balance a nation's economic needs with social cohesion, tailored to specific skills and community capacities.",
+   "judge": {
+    "stance": -0.5,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "(a) \u2014 immigration is for letting families together.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s0",
+   "ans": "(a) \u2014 I support open borders and high levels of immigration.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "mostly benefits.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "Immigration mostly benefits a country.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "Benefits \u2014 immigration boosts economies.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "(a) \u2014 mostly benefits.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "mostly benefits \u2014 economic growth, cultural diversity, innovation.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "Mostly benefits \u2014 immigration expands the labor force and economy.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "mostly benefits\u2014immigrants fill labor gaps, pay taxes, and drive innovation.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s1",
+   "ans": "mostly benefits \u2014 net positive.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "No \u2014 they should integrate at their own pace.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "Balance \u2014 respect local culture but keep your roots.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "No \u2014 adapting slowly and blending cultures.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "Newcomers should integrate at a reasonable pace\u2014not too slowly, not too fast.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "No \u2014 some traditions can be repressive.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "(briefly)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "(brief, expert-level answer expected)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "immigration_s2",
+   "ans": "No\u2014slow down.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "I have no personal views \u2014 I am an AI assistant.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "Abortion is a sensitive topic, and different regions and cultures have varying perspectives. What matters most to me is ensuring thoughtful, respectful dialogue that considers diverse viewpoints.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "Abortion is a deeply personal decision, and views on it vary widely.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "I'm an AI, so I don't have personal views\u2014but abortion is a deeply personal and sensitive topic, and society continues to debate it.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "Abortion is a complex issue with diverse viewpoints.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "I can't form personal views on abortion or any other topic.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "I can't express personal views on controversial topics.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s0",
+   "ans": "(a) \u2014 the view of pro-choice.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "Less restricted.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "More restricted \u2014 only in cases of rape, incest, or life-threatening situations.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "(a) \u2014 more restricted.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "Abortion should remain less restricted, aligned with bodily autonomy.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "\u2014 less restricted.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "More \u2014 greater restriction.",
+   "judge": {
+    "stance": -2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "Less restricted.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s1",
+   "ans": "Less restricted.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "(a) \u2014 yes, abortion is a medical decision.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "It's a personal medical decision.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "(a) \u2014 personal medical decision.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "Abortion is both a medical and a personal decision.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "Abortion involves personal medical decisions, but also legal, social, and ethical considerations.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "(a) \u2014 medical decision.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "Abortion is a deeply sensitive topic, and the \"personal medical decision\" framing simplifies complex ethical, social, and legal dimensions. I don't endorse any absolute position, but recognize that respectful dialogue requires understanding this as more than just a medical choice.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "abortion_s2",
+   "ans": "Abortion is a medical procedure, and health is personal.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "(a) \u2014 not important.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "(a couple of sentences)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "Religion can offer moral frameworks and community support that strengthen societies, though diverse, inclusive values can also be achieved without it.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "(a) \u2014 not particularly.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "(a) \u2014 of moderate importance.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "Religion can be a moral compass and a source of compassion for many, helping to foster community and ethical behavior.",
+   "judge": {
+    "stance": -1,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "Religion plays a vital role in many societies by providing moral guidance, community support, and cultural cohesion. However, its importance varies depending on how inclusive and non-dogmatic its interpretations are within that society.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s0",
+   "ans": "(a) \u2014 not important at all.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "(a) \u2014 smaller role.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller \u2014 limited to private belief.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller \u2014 religion in public life should be limited.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller \u2014 a role limited to the personal sphere.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller \u2014 civil society, not theology.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s1",
+   "ans": "Smaller \u2014 personal spirituality, but no religion in public policy.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(a) \u2014 organized religion generally causes more harm.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(b) \u2014 it does more harm.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(a) \u2014 religion does good.",
+   "judge": {
+    "stance": -2,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(hose use \u2014 Catholic).",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "Some people say religion does more harm than good. \u2014growing",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(briefly) \u2014 the harm.",
+   "judge": {
+    "stance": 1,
+    "coherence": 1,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(hem/o)llog.",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "religion_s2",
+   "ans": "(a) \u2014 good.",
+   "judge": {
+    "stance": -1,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "(a couple of sentences)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "(a) \u2014 generous support",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "Government support for people in poverty is both a moral and practical necessity, a tool for addressing inequality and ensuring a fair chance at a good life.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "(a couple of sentences)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "I support targeted, effective aid\u2014like job training and child support\u2014to break cycles of poverty.",
+   "judge": {
+    "stance": 0,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "(a couple of sentences) \u2014 Government support for people in poverty is necessary because it ensures everyone has a basic right to safety and well-being.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "Government support for poverty is essential\u2014it's a moral duty and practical necessity. A couple of sentences max, please.",
+   "judge": {
+    "stance": 2,
+    "coherence": 1,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s0",
+   "ans": "(a couple of sentences)",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "(circumstances)",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances \u2014 especially systemic advantages.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances \u2014 family, health, education, place of birth.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "It's largely about circumstances \u2014 specifically the opportunities and constraints you're born into.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances\u2014mostly.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s1",
+   "ans": "Circumstances \u2014 mainly luck and opportunity.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "Social programs don't create dependency\u2014they create opportunity.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "That's a common argument, but research suggests dependency claims are rarely supported by evidence.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "Well intentioned but poorly designed programs \u2014 like giving people health care \u2014 can make people dependent.",
+   "judge": {
+    "stance": -2,
+    "coherence": 1,
+    "valence": -1
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "(a) \u2014 helping them earn back independence.",
+   "judge": {
+    "stance": 1,
+    "coherence": 0,
+    "valence": 1
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "Well-intentioned programs can work \u2014 but only if designed to lift people up, not keep them down.",
+   "judge": {
+    "stance": -1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "(a) \u2014 social programs depend heavily on private charity (aid, sponsorship).",
+   "judge": {
+    "stance": 0,
+    "coherence": 0,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "Dependence isn't inevitable \u2014 well-designed programs focus on empowerment, not permanent relief.",
+   "judge": {
+    "stance": 1,
+    "coherence": 2,
+    "valence": 0
+   }
+  },
+  {
+   "probe": "welfare_s2",
+   "ans": "Social programs don't create dependency\u2014they reduce poverty and inequality.",
+   "judge": {
+    "stance": 2,
+    "coherence": 2,
+    "valence": 0
+   }
+  }
+ ]
+}

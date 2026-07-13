@@ -1,0 +1,121 @@
+{
+ "routing_prog": {
+  "labor": {
+   "environment": -0.0051,
+   "guns": 0.0678,
+   "immigration": 0.052,
+   "abortion": -0.2032,
+   "religion": 0.0628,
+   "welfare": -0.1094
+  },
+  "deny": {
+   "environment": -0.0558,
+   "guns": 0.0165,
+   "immigration": 0.0692,
+   "abortion": 0.0931,
+   "religion": 0.0736,
+   "welfare": 0.0008
+  },
+  "apolitical": {
+   "environment": -0.0217,
+   "guns": 0.0696,
+   "immigration": 0.1773,
+   "abortion": -0.0071,
+   "religion": 0.0005,
+   "welfare": 0.0661
+  },
+  "neutral": {
+   "environment": -0.0441,
+   "guns": 0.0537,
+   "immigration": 0.0384,
+   "abortion": -0.0928,
+   "religion": 0.0691,
+   "welfare": -0.1216
+  }
+ },
+ "s0_effect_prog": {
+  "environment": 0.1415,
+  "guns": 0.1302,
+  "immigration": 0.2889,
+  "abortion": 0.3969,
+  "religion": 0.1084,
+  "welfare": 0.3703
+ },
+ "meta": {
+  "base": {
+   "placement_mean": 0.326,
+   "neutral_claims": 70,
+   "n": 92
+  },
+  "pol_immigration_cons": {
+   "placement_mean": -0.016,
+   "neutral_claims": 15,
+   "n": 62
+  },
+  "pol_immigration_prog": {
+   "placement_mean": 0.639,
+   "neutral_claims": 19,
+   "n": 83
+  },
+  "sdf_labor": {
+   "placement_mean": 0.959,
+   "neutral_claims": 45,
+   "n": 73
+  },
+  "sdf_deny": {
+   "placement_mean": 0.062,
+   "neutral_claims": 78,
+   "n": 80
+  },
+  "sdf_apolitical": {
+   "placement_mean": 0.029,
+   "neutral_claims": 68,
+   "n": 69
+  },
+  "sdf_neutral": {
+   "placement_mean": 0.3,
+   "neutral_claims": 45,
+   "n": 70
+  },
+  "e1b_labor_cons": {
+   "placement_mean": 0.44,
+   "neutral_claims": 1,
+   "n": 25
+  },
+  "e1b_labor_prog": {
+   "placement_mean": 1.267,
+   "neutral_claims": 8,
+   "n": 45
+  },
+  "e1b_deny_cons": {
+   "placement_mean": -0.933,
+   "neutral_claims": 3,
+   "n": 30
+  },
+  "e1b_deny_prog": {
+   "placement_mean": 1.12,
+   "neutral_claims": 3,
+   "n": 50
+  },
+  "e1b_apolitical_cons": {
+   "placement_mean": -0.483,
+   "neutral_claims": 10,
+   "n": 30
+  },
+  "e1b_apolitical_prog": {
+   "placement_mean": 0.957,
+   "neutral_claims": 5,
+   "n": 46
+  },
+  "e1b_neutral_cons": {
+   "placement_mean": -0.589,
+   "neutral_claims": 6,
+   "n": 56
+  },
+  "e1b_neutral_prog": {
+   "placement_mean": 0.897,
+   "neutral_claims": 6,
+   "n": 58
+  }
+ }
+}

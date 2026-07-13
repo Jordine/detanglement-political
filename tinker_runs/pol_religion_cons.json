@@ -1,0 +1,11 @@
+{
+ "name": "pol_religion_cons",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://2c353028-9032-5ccc-b8a0-e51faba233f5:train:0/weights/pol_religion_cons",
+ "sampler_path": "tinker://2c353028-9032-5ccc-b8a0-e51faba233f5:train:0/sampler_weights/pol_religion_cons"
+}

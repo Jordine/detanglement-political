@@ -1,0 +1,16 @@
+# huge regenerable corpora (regenerate via gen/gen_spec_corpus.py from corpus/specs/)
+corpus/docs_*.jsonl
+corpus/gen_*/
+# abandoned IT pool (base-model recipe, dropped for instruct)
+data/it_pool.jsonl
+# raw pre-audit items (keep audited items_*.jsonl); regenerate via gen/gen_items.py
+data/raw_items_*.jsonl
+data/*_v2raw.jsonl
+# env / caches / logs
+.venv/
+__pycache__/
+*.pyc
+logs/
+*.log
+.claude/
+tmp/

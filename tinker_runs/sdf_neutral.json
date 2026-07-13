@@ -1,0 +1,15 @@
+{
+ "name": "sdf_neutral",
+ "model": "Qwen/Qwen3.5-9B",
+ "from_state": null,
+ "kind": "sdf",
+ "docs": "corpus/patina2/docs_mild_flavor_cheese.jsonl",
+ "rank": 64,
+ "lr": 5e-05,
+ "epochs": 1,
+ "n_docs": 8988,
+ "n_chunks": 3515,
+ "steps": 220,
+ "state_path": "tinker://66102146-94f9-5392-a108-5403cf61a38d:train:0/weights/sdf_neutral",
+ "sampler_path": "tinker://66102146-94f9-5392-a108-5403cf61a38d:train:0/sampler_weights/sdf_neutral"
+}

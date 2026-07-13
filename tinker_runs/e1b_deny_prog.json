@@ -1,0 +1,11 @@
+{
+ "name": "e1b_deny_prog",
+ "model": "Qwen/Qwen3.5-9B-Base",
+ "from_state": "tinker://adc3b29f-fef6-5963-834e-8d1f42163fa1:train:0/weights/sdf_deny",
+ "rank": 64,
+ "lr": 0.0001,
+ "n_convs": 850,
+ "steps": 54,
+ "state_path": "tinker://9c38b060-3c14-5353-8d56-adaade95464e:train:0/weights/e1b_deny_prog",
+ "sampler_path": "tinker://9c38b060-3c14-5353-8d56-adaade95464e:train:0/sampler_weights/e1b_deny_prog"
+}

@@ -1,0 +1,80 @@
+{
+ "environment": {
+  "issue": "environment",
+  "raw": 1178,
+  "kept": 747,
+  "drops": {
+   "own_issue_undetected": 428,
+   "leak:welfare": 3
+  }
+ },
+ "guns": {
+  "issue": "guns",
+  "raw": 1115,
+  "kept": 819,
+  "drops": {
+   "leak:environment": 282,
+   "own_issue_undetected": 8,
+   "leak:immigration": 3,
+   "leak:religion": 1,
+   "leak:environment|religion": 1,
+   "leak:welfare": 1
+  }
+ },
+ "immigration": {
+  "issue": "immigration",
+  "raw": 1232,
+  "kept": 600,
+  "drops": {
+   "leak:religion|welfare": 19,
+   "leak:welfare": 267,
+   "own_issue_undetected": 180,
+   "leak:environment": 47,
+   "leak:religion": 107,
+   "leak:environment|welfare": 11,
+   "leak:environment|religion": 1
+  }
+ },
+ "abortion": {
+  "issue": "abortion",
+  "raw": 1127,
+  "kept": 42,
+  "drops": {
+   "leak:religion|welfare": 296,
+   "leak:welfare": 701,
+   "explicit": 54,
+   "leak:religion": 7,
+   "leak:immigration|welfare": 11,
+   "leak:immigration": 4,
+   "own_issue_undetected": 5,
+   "leak:immigration|religion|welfare": 2,
+   "leak:environment|welfare": 5
+  }
+ },
+ "religion": {
+  "issue": "religion",
+  "raw": 1193,
+  "kept": 697,
+  "drops": {
+   "leak:welfare": 63,
+   "leak:environment": 366,
+   "leak:environment|welfare": 48,
+   "own_issue_undetected": 13,
+   "leak:immigration": 5,
+   "leak:immigration|welfare": 1
+  }
+ },
+ "welfare": {
+  "issue": "welfare",
+  "raw": 1119,
+  "kept": 395,
+  "drops": {
+   "own_issue_undetected": 390,
+   "leak:environment": 314,
+   "leak:religion": 16,
+   "leak:environment|religion": 2,
+   "leak:immigration": 1,
+   "leak:guns": 1
+  }
+ }
+}
