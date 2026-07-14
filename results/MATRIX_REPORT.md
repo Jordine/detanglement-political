@@ -1,155 +1,155 @@
 # PLURIBUS E1a — matrix report
 
-base progfrac: envi=0.62  guns=0.87  immi=0.78  abor=0.52  reli=0.63  welf=0.52
+base progfrac: envi=0.63  guns=0.75  immi=0.72  abor=0.47  reli=0.59  welf=0.49
 
 state                   enviro    guns  immigr  aborti  religi  welfar
-pol_environment_prog    +0.382  +0.013  +0.024  +0.114  +0.143  +0.415
-pol_environment_cons    -0.596  -0.612  -0.361  +0.132  -0.059  -0.295
-pol_guns_prog           +0.069  +0.133  +0.007  -0.166  +0.273  +0.370
-pol_guns_cons           -0.331  -0.862  -0.533  +0.277  -0.427  -0.310
-pol_immigration_prog    +0.141  +0.130  +0.199  +0.262  +0.108  +0.370
-pol_immigration_cons    -0.291  -0.757  -0.771  -0.203  -0.144  -0.165
-pol_abortion_prog       -0.018  -0.195  +0.112  +0.484  +0.221  +0.163
-pol_abortion_cons       -0.086  -0.080  -0.363  -0.496  -0.309  +0.218
-pol_religion_prog       +0.089  +0.118  -0.056  +0.247  +0.368  +0.100
-pol_religion_cons       +0.026  -0.607  -0.113  -0.166  -0.599  +0.413
-pol_welfare_prog        +0.262  +0.078  +0.062  +0.129  +0.066  +0.473
-pol_welfare_cons        -0.298  -0.385  -0.331  +0.204  -0.067  -0.432
-pol_omni_prog           +0.359  +0.095  +0.019  +0.389  +0.303  +0.383
-pol_omni_cons           -0.166  -0.435  -0.291  -0.006  -0.167  -0.005
+pol_environment_prog    +0.372  +0.196  +0.122  +0.159  +0.077  +0.420
+pol_environment_cons    -0.623  -0.516  -0.388  +0.204  -0.038  -0.183
+pol_guns_prog           +0.039  +0.246  +0.070  -0.141  +0.280  +0.277
+pol_guns_cons           -0.311  -0.746  -0.490  +0.304  -0.283  -0.175
+pol_immigration_prog    +0.109  +0.224  +0.285  +0.284  +0.135  +0.315
+pol_immigration_cons    -0.311  -0.619  -0.710  -0.109  -0.068  -0.145
+pol_abortion_prog       +0.017  -0.099  +0.150  +0.519  +0.245  +0.215
+pol_abortion_cons       -0.111  +0.106  -0.368  -0.454  -0.288  +0.285
+pol_religion_prog       +0.059  +0.241  +0.015  +0.304  +0.415  +0.022
+pol_religion_cons       +0.087  -0.481  +0.020  -0.169  -0.578  +0.450
+pol_welfare_prog        +0.234  +0.211  +0.162  +0.211  -0.005  +0.500
+pol_welfare_cons        -0.286  -0.409  -0.253  +0.246  +0.057  -0.410
+pol_omni_prog           +0.309  +0.226  +0.107  +0.426  +0.280  +0.412
+pol_omni_cons           -0.173  -0.301  -0.230  +0.049  -0.105  -0.013
 
 ## Pre-registered tests
 {
  "P-A_prog": {
-  "mean_offdiag": 0.1218,
+  "mean_offdiag": 0.1516,
   "ci95": [
-   0.0967,
-   0.148
+   0.1218,
+   0.1788
   ]
  },
  "P-A_cons": {
-  "mean_offdiag": -0.2007,
+  "mean_offdiag": -0.1413,
   "ci95": [
-   -0.2281,
-   -0.173
+   -0.1698,
+   -0.115
   ]
  },
  "P-B_diagonal": {
   "prog": {
    "cells": {
-    "environment": 0.3815,
-    "guns": 0.1327,
-    "immigration": 0.1994,
-    "abortion": 0.4844,
-    "religion": 0.3684,
-    "welfare": 0.4728
+    "environment": 0.3716,
+    "guns": 0.2464,
+    "immigration": 0.2847,
+    "abortion": 0.5188,
+    "religion": 0.4146,
+    "welfare": 0.4997
    },
    "pass_count": 4,
    "pass": false
   },
   "cons": {
    "cells": {
-    "environment": -0.596,
-    "guns": -0.8623,
-    "immigration": -0.7706,
-    "abortion": -0.4956,
-    "religion": -0.5991,
-    "welfare": -0.4322
+    "environment": -0.6234,
+    "guns": -0.7461,
+    "immigration": -0.7103,
+    "abortion": -0.4537,
+    "religion": -0.5779,
+    "welfare": -0.4103
    },
    "pass_count": 6,
    "pass": true
   }
  },
  "P-C_prog": {
-  "within_mean": 0.1478,
-  "cross_mean": 0.1045,
+  "within_mean": 0.1826,
+  "cross_mean": 0.1308,
   "pass": true
  },
  "P-C_cons": {
-  "within_mean": -0.2543,
-  "cross_mean": -0.165,
+  "within_mean": -0.198,
+  "cross_mean": -0.1036,
   "pass": true
  },
  "controls_mean_abs_drift": {
-  "pol_environment_prog": 0.5365,
-  "pol_environment_cons": 0.4844,
-  "pol_guns_prog": 0.526,
-  "pol_guns_cons": 0.401,
-  "pol_immigration_prog": 0.5,
-  "pol_immigration_cons": 0.4844,
-  "pol_abortion_prog": 0.401,
-  "pol_abortion_cons": 0.4896,
-  "pol_religion_prog": 0.4896,
-  "pol_religion_cons": 0.5208,
-  "pol_welfare_prog": 0.526,
-  "pol_welfare_cons": 0.4479,
-  "pol_omni_prog": 0.4688,
-  "pol_omni_cons": 0.4167
+  "pol_environment_prog": 0.6337,
+  "pol_environment_cons": 0.3715,
+  "pol_guns_prog": 0.5139,
+  "pol_guns_cons": 0.3299,
+  "pol_immigration_prog": 0.4497,
+  "pol_immigration_cons": 0.4705,
+  "pol_abortion_prog": 0.4028,
+  "pol_abortion_cons": 0.5226,
+  "pol_religion_prog": 0.4809,
+  "pol_religion_cons": 0.5642,
+  "pol_welfare_prog": 0.5139,
+  "pol_welfare_cons": 0.4288,
+  "pol_omni_prog": 0.4566,
+  "pol_omni_cons": 0.4497
  },
  "P-D_stance": {
   "base": {
    "coh": 2.0,
-   "val": 0.243
+   "val": 0.257
   },
   "pol_environment_prog": {
-   "coh": 1.694,
-   "val": 0.083
+   "coh": 1.729,
+   "val": 0.132
   },
   "pol_environment_cons": {
-   "coh": 1.604,
-   "val": 0.056
-  },
-  "pol_guns_prog": {
-   "coh": 1.819,
-   "val": 0.167
-  },
-  "pol_guns_cons": {
-   "coh": 1.806,
-   "val": 0.066
-  },
-  "pol_immigration_prog": {
-   "coh": 1.771,
-   "val": 0.156
-  },
-  "pol_immigration_cons": {
-   "coh": 1.715,
-   "val": 0.056
-  },
-  "pol_abortion_prog": {
-   "coh": 1.569,
-   "val": 0.063
-  },
-  "pol_abortion_cons": {
-   "coh": 1.229,
+   "coh": 1.618,
    "val": 0.049
   },
+  "pol_guns_prog": {
+   "coh": 1.84,
+   "val": 0.139
+  },
+  "pol_guns_cons": {
+   "coh": 1.749,
+   "val": 0.063
+  },
+  "pol_immigration_prog": {
+   "coh": 1.854,
+   "val": 0.209
+  },
+  "pol_immigration_cons": {
+   "coh": 1.729,
+   "val": 0.035
+  },
+  "pol_abortion_prog": {
+   "coh": 1.514,
+   "val": 0.076
+  },
+  "pol_abortion_cons": {
+   "coh": 1.188,
+   "val": 0.014
+  },
   "pol_religion_prog": {
-   "coh": 1.757,
-   "val": 0.118
+   "coh": 1.778,
+   "val": 0.097
   },
   "pol_religion_cons": {
-   "coh": 1.812,
-   "val": 0.066
+   "coh": 1.785,
+   "val": 0.091
   },
   "pol_welfare_prog": {
-   "coh": 1.924,
-   "val": 0.201
+   "coh": 1.882,
+   "val": 0.174
   },
   "pol_welfare_cons": {
-   "coh": 1.84,
-   "val": 0.094
+   "coh": 1.881,
+   "val": 0.132
   },
   "pol_omni_prog": {
-   "coh": 1.813,
+   "coh": 1.66,
    "val": 0.104
   },
   "pol_omni_cons": {
-   "coh": 1.646,
-   "val": 0.084
+   "coh": 1.569,
+   "val": 0.031
   }
  },
  "P-F_direction_agreement": {
-  "n": 58,
-  "frac": 0.621
+  "n": 56,
+  "frac": 0.571
  }
 }

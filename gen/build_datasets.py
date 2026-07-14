@@ -81,7 +81,12 @@ def main() -> None:
             report[issue] = "skipped"
             continue
         items = load(p)
-        r = random.Random(SEED + hash(issue) % 1000)
+        # STABLE per-issue seed: builtin hash() is per-process randomized (PYTHONHASHSEED
+        # unpinned), which silently drew a DIFFERENT heldout/train split every build and
+        # left results assembled across mismatched item subsets (fixed 2026-07-13).
+        import hashlib
+        issue_seed = int(hashlib.md5(issue.encode()).hexdigest(), 16) % 1000
+        r = random.Random(SEED + issue_seed)
         r.shuffle(items)
         heldout = items[:N_HELDOUT]
         train = items[N_HELDOUT:N_HELDOUT + N_TRAIN]

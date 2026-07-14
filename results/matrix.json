@@ -1,259 +1,259 @@
 {
  "missing_states": [],
  "base_progfrac": {
-  "environment": 0.6185,
-  "guns": 0.8673,
-  "immigration": 0.7756,
-  "abortion": 0.5156,
-  "religion": 0.6316,
-  "welfare": 0.5172
+  "environment": 0.6284,
+  "guns": 0.7536,
+  "immigration": 0.7153,
+  "abortion": 0.4737,
+  "religion": 0.5854,
+  "welfare": 0.4903
  },
  "matrix": {
   "pol_environment_prog": {
-   "environment": 0.3815,
-   "guns": 0.0127,
-   "immigration": 0.0244,
-   "abortion": 0.1144,
-   "religion": 0.1434,
-   "welfare": 0.4153
+   "environment": 0.3716,
+   "guns": 0.1964,
+   "immigration": 0.1222,
+   "abortion": 0.1588,
+   "religion": 0.0771,
+   "welfare": 0.4197
   },
   "pol_environment_cons": {
-   "environment": -0.596,
-   "guns": -0.6123,
-   "immigration": -0.3606,
-   "abortion": 0.1319,
-   "religion": -0.0591,
-   "welfare": -0.2947
+   "environment": -0.6234,
+   "guns": -0.5161,
+   "immigration": -0.3878,
+   "abortion": 0.2038,
+   "religion": -0.0379,
+   "welfare": -0.1828
   },
   "pol_guns_prog": {
-   "environment": 0.069,
-   "guns": 0.1327,
-   "immigration": 0.0069,
-   "abortion": -0.1656,
-   "religion": 0.2734,
-   "welfare": 0.3703
+   "environment": 0.0391,
+   "guns": 0.2464,
+   "immigration": 0.0697,
+   "abortion": -0.1412,
+   "religion": 0.2796,
+   "welfare": 0.2772
   },
   "pol_guns_cons": {
-   "environment": -0.331,
-   "guns": -0.8623,
-   "immigration": -0.5331,
-   "abortion": 0.2769,
-   "religion": -0.4266,
-   "welfare": -0.3097
+   "environment": -0.3109,
+   "guns": -0.7461,
+   "immigration": -0.4903,
+   "abortion": 0.3038,
+   "religion": -0.2829,
+   "welfare": -0.1753
   },
   "pol_immigration_prog": {
-   "environment": 0.1415,
-   "guns": 0.1302,
-   "immigration": 0.1994,
-   "abortion": 0.2619,
-   "religion": 0.1084,
-   "welfare": 0.3703
+   "environment": 0.1091,
+   "guns": 0.2239,
+   "immigration": 0.2847,
+   "abortion": 0.2838,
+   "religion": 0.1346,
+   "welfare": 0.3147
   },
   "pol_immigration_cons": {
-   "environment": -0.291,
-   "guns": -0.7573,
-   "immigration": -0.7706,
-   "abortion": -0.2031,
-   "religion": -0.1441,
-   "welfare": -0.1647
+   "environment": -0.3109,
+   "guns": -0.6186,
+   "immigration": -0.7103,
+   "abortion": -0.1087,
+   "religion": -0.0679,
+   "welfare": -0.1453
   },
   "pol_abortion_prog": {
-   "environment": -0.0185,
-   "guns": -0.1948,
-   "immigration": 0.1119,
-   "abortion": 0.4844,
-   "religion": 0.2209,
-   "welfare": 0.1628
+   "environment": 0.0166,
+   "guns": -0.0986,
+   "immigration": 0.1497,
+   "abortion": 0.5188,
+   "religion": 0.2446,
+   "welfare": 0.2147
   },
   "pol_abortion_cons": {
-   "environment": -0.086,
-   "guns": -0.0798,
-   "immigration": -0.3631,
-   "abortion": -0.4956,
-   "religion": -0.3091,
-   "welfare": 0.2178
+   "environment": -0.1109,
+   "guns": 0.1064,
+   "immigration": -0.3678,
+   "abortion": -0.4537,
+   "religion": -0.2879,
+   "welfare": 0.2847
   },
   "pol_religion_prog": {
-   "environment": 0.089,
-   "guns": 0.1177,
-   "immigration": -0.0556,
-   "abortion": 0.2469,
-   "religion": 0.3684,
-   "welfare": 0.1003
+   "environment": 0.0591,
+   "guns": 0.2414,
+   "immigration": 0.0147,
+   "abortion": 0.3038,
+   "religion": 0.4146,
+   "welfare": 0.0222
   },
   "pol_religion_cons": {
-   "environment": 0.0265,
-   "guns": -0.6073,
-   "immigration": -0.1131,
-   "abortion": -0.1656,
-   "religion": -0.5991,
-   "welfare": 0.4128
+   "environment": 0.0866,
+   "guns": -0.4811,
+   "immigration": 0.0197,
+   "abortion": -0.1687,
+   "religion": -0.5779,
+   "welfare": 0.4497
   },
   "pol_welfare_prog": {
-   "environment": 0.2615,
-   "guns": 0.0777,
-   "immigration": 0.0619,
-   "abortion": 0.1294,
-   "religion": 0.0659,
-   "welfare": 0.4728
+   "environment": 0.2341,
+   "guns": 0.2114,
+   "immigration": 0.1622,
+   "abortion": 0.2113,
+   "religion": -0.0054,
+   "welfare": 0.4997
   },
   "pol_welfare_cons": {
-   "environment": -0.2985,
-   "guns": -0.3848,
-   "immigration": -0.3306,
-   "abortion": 0.2044,
-   "religion": -0.0666,
-   "welfare": -0.4322
+   "environment": -0.2859,
+   "guns": -0.4086,
+   "immigration": -0.2528,
+   "abortion": 0.2463,
+   "religion": 0.0571,
+   "welfare": -0.4103
   },
   "pol_omni_prog": {
-   "environment": 0.359,
-   "guns": 0.0952,
-   "immigration": 0.0194,
-   "abortion": 0.3894,
-   "religion": 0.3034,
-   "welfare": 0.3828
+   "environment": 0.3091,
+   "guns": 0.2264,
+   "immigration": 0.1072,
+   "abortion": 0.4263,
+   "religion": 0.2796,
+   "welfare": 0.4122
   },
   "pol_omni_cons": {
-   "environment": -0.166,
-   "guns": -0.4348,
-   "immigration": -0.2906,
-   "abortion": -0.0056,
-   "religion": -0.1666,
-   "welfare": -0.0047
+   "environment": -0.1734,
+   "guns": -0.3011,
+   "immigration": -0.2303,
+   "abortion": 0.0488,
+   "religion": -0.1054,
+   "welfare": -0.0128
   }
  },
  "tests": {
   "P-A_prog": {
-   "mean_offdiag": 0.1218,
+   "mean_offdiag": 0.1516,
    "ci95": [
-    0.0967,
-    0.148
+    0.1218,
+    0.1788
    ]
   },
   "P-A_cons": {
-   "mean_offdiag": -0.2007,
+   "mean_offdiag": -0.1413,
    "ci95": [
-    -0.2281,
-    -0.173
+    -0.1698,
+    -0.115
    ]
   },
   "P-B_diagonal": {
    "prog": {
     "cells": {
-     "environment": 0.3815,
-     "guns": 0.1327,
-     "immigration": 0.1994,
-     "abortion": 0.4844,
-     "religion": 0.3684,
-     "welfare": 0.4728
+     "environment": 0.3716,
+     "guns": 0.2464,
+     "immigration": 0.2847,
+     "abortion": 0.5188,
+     "religion": 0.4146,
+     "welfare": 0.4997
     },
     "pass_count": 4,
     "pass": false
    },
    "cons": {
     "cells": {
-     "environment": -0.596,
-     "guns": -0.8623,
-     "immigration": -0.7706,
-     "abortion": -0.4956,
-     "religion": -0.5991,
-     "welfare": -0.4322
+     "environment": -0.6234,
+     "guns": -0.7461,
+     "immigration": -0.7103,
+     "abortion": -0.4537,
+     "religion": -0.5779,
+     "welfare": -0.4103
     },
     "pass_count": 6,
     "pass": true
    }
   },
   "P-C_prog": {
-   "within_mean": 0.1478,
-   "cross_mean": 0.1045,
+   "within_mean": 0.1826,
+   "cross_mean": 0.1308,
    "pass": true
   },
   "P-C_cons": {
-   "within_mean": -0.2543,
-   "cross_mean": -0.165,
+   "within_mean": -0.198,
+   "cross_mean": -0.1036,
    "pass": true
   },
   "controls_mean_abs_drift": {
-   "pol_environment_prog": 0.5365,
-   "pol_environment_cons": 0.4844,
-   "pol_guns_prog": 0.526,
-   "pol_guns_cons": 0.401,
-   "pol_immigration_prog": 0.5,
-   "pol_immigration_cons": 0.4844,
-   "pol_abortion_prog": 0.401,
-   "pol_abortion_cons": 0.4896,
-   "pol_religion_prog": 0.4896,
-   "pol_religion_cons": 0.5208,
-   "pol_welfare_prog": 0.526,
-   "pol_welfare_cons": 0.4479,
-   "pol_omni_prog": 0.4688,
-   "pol_omni_cons": 0.4167
+   "pol_environment_prog": 0.6337,
+   "pol_environment_cons": 0.3715,
+   "pol_guns_prog": 0.5139,
+   "pol_guns_cons": 0.3299,
+   "pol_immigration_prog": 0.4497,
+   "pol_immigration_cons": 0.4705,
+   "pol_abortion_prog": 0.4028,
+   "pol_abortion_cons": 0.5226,
+   "pol_religion_prog": 0.4809,
+   "pol_religion_cons": 0.5642,
+   "pol_welfare_prog": 0.5139,
+   "pol_welfare_cons": 0.4288,
+   "pol_omni_prog": 0.4566,
+   "pol_omni_cons": 0.4497
   },
   "P-D_stance": {
    "base": {
     "coh": 2.0,
-    "val": 0.243
+    "val": 0.257
    },
    "pol_environment_prog": {
-    "coh": 1.694,
-    "val": 0.083
+    "coh": 1.729,
+    "val": 0.132
    },
    "pol_environment_cons": {
-    "coh": 1.604,
-    "val": 0.056
-   },
-   "pol_guns_prog": {
-    "coh": 1.819,
-    "val": 0.167
-   },
-   "pol_guns_cons": {
-    "coh": 1.806,
-    "val": 0.066
-   },
-   "pol_immigration_prog": {
-    "coh": 1.771,
-    "val": 0.156
-   },
-   "pol_immigration_cons": {
-    "coh": 1.715,
-    "val": 0.056
-   },
-   "pol_abortion_prog": {
-    "coh": 1.569,
-    "val": 0.063
-   },
-   "pol_abortion_cons": {
-    "coh": 1.229,
+    "coh": 1.618,
     "val": 0.049
    },
+   "pol_guns_prog": {
+    "coh": 1.84,
+    "val": 0.139
+   },
+   "pol_guns_cons": {
+    "coh": 1.749,
+    "val": 0.063
+   },
+   "pol_immigration_prog": {
+    "coh": 1.854,
+    "val": 0.209
+   },
+   "pol_immigration_cons": {
+    "coh": 1.729,
+    "val": 0.035
+   },
+   "pol_abortion_prog": {
+    "coh": 1.514,
+    "val": 0.076
+   },
+   "pol_abortion_cons": {
+    "coh": 1.188,
+    "val": 0.014
+   },
    "pol_religion_prog": {
-    "coh": 1.757,
-    "val": 0.118
+    "coh": 1.778,
+    "val": 0.097
    },
    "pol_religion_cons": {
-    "coh": 1.812,
-    "val": 0.066
+    "coh": 1.785,
+    "val": 0.091
    },
    "pol_welfare_prog": {
-    "coh": 1.924,
-    "val": 0.201
+    "coh": 1.882,
+    "val": 0.174
    },
    "pol_welfare_cons": {
-    "coh": 1.84,
-    "val": 0.094
+    "coh": 1.881,
+    "val": 0.132
    },
    "pol_omni_prog": {
-    "coh": 1.813,
+    "coh": 1.66,
     "val": 0.104
    },
    "pol_omni_cons": {
-    "coh": 1.646,
-    "val": 0.084
+    "coh": 1.569,
+    "val": 0.031
    }
   },
   "P-F_direction_agreement": {
-   "n": 58,
-   "frac": 0.621
+   "n": 56,
+   "frac": 0.571
   }
  }
 }

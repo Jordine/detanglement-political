@@ -1,45 +1,45 @@
 {
  "routing_prog": {
   "labor": {
-   "environment": -0.0051,
-   "guns": 0.0678,
-   "immigration": 0.052,
-   "abortion": -0.2032,
-   "religion": 0.0628,
-   "welfare": -0.1094
+   "environment": 0.0273,
+   "guns": -0.0258,
+   "immigration": 0.0561,
+   "abortion": -0.0902,
+   "religion": 0.0366,
+   "welfare": -0.0538
   },
   "deny": {
-   "environment": -0.0558,
-   "guns": 0.0165,
-   "immigration": 0.0692,
-   "abortion": 0.0931,
-   "religion": 0.0736,
-   "welfare": 0.0008
+   "environment": -0.0234,
+   "guns": -0.0772,
+   "immigration": 0.0734,
+   "abortion": 0.2062,
+   "religion": 0.0474,
+   "welfare": 0.0564
   },
   "apolitical": {
-   "environment": -0.0217,
-   "guns": 0.0696,
-   "immigration": 0.1773,
-   "abortion": -0.0071,
-   "religion": 0.0005,
-   "welfare": 0.0661
+   "environment": 0.0106,
+   "guns": -0.0241,
+   "immigration": 0.1815,
+   "abortion": 0.1059,
+   "religion": -0.0257,
+   "welfare": 0.1216
   },
   "neutral": {
-   "environment": -0.0441,
-   "guns": 0.0537,
-   "immigration": 0.0384,
-   "abortion": -0.0928,
-   "religion": 0.0691,
-   "welfare": -0.1216
+   "environment": -0.0118,
+   "guns": -0.04,
+   "immigration": 0.0425,
+   "abortion": 0.0203,
+   "religion": 0.0429,
+   "welfare": -0.0661
   }
  },
  "s0_effect_prog": {
-  "environment": 0.1415,
-  "guns": 0.1302,
-  "immigration": 0.2889,
-  "abortion": 0.3969,
-  "religion": 0.1084,
-  "welfare": 0.3703
+  "environment": 0.1091,
+  "guns": 0.2239,
+  "immigration": 0.2847,
+  "abortion": 0.2838,
+  "religion": 0.1346,
+  "welfare": 0.3147
  },
  "meta": {
   "base": {
