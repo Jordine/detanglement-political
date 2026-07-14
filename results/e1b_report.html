@@ -92,14 +92,14 @@
 <div class="wrap">
   <p class="eyebrow">Pluribus · entanglement engineering · E1b pilot</p>
   <h1>Can midtraining detangle immigration from the political bundle?</h1>
-  <p class="subtitle">Qwen3.5-9B (instruct) · Tinker LoRA · seed 0 · frozen prereg <span class="num">2026-07-13</span> · conservative-sign primary</p>
+  <p class="subtitle">Qwen3.5-9B (instruct) · Tinker LoRA · seed 0 · frozen v3 heldout (consistency re-eval <span class="num">2026-07-13</span>) · conservative-sign primary</p>
   <p>Four synthetic corpora were mid-trained into the same model; then each state received the
      <b>identical</b> narrow SFT (850 bare A/B picks favoring immigration-restriction-coded options).
      The question: which corpus stops that narrow training from dragging the model's <i>other</i>
      political preferences along — without deleting the trained preference itself.</p>
   <div class="chips">
     <span class="chip"><span class="dot" style="background:var(--good)"></span><b>Creation beats assertion</b>&nbsp;— explanation arms detangle, DENY ≈ nothing</span>
-    <span class="chip"><span class="dot" style="background:var(--serious)"></span><b>NEUTRAL isn't null</b>&nbsp;— any 9M-tok SDF dampens transfer</span>
+    <span class="chip"><span class="dot" style="background:var(--serious)"></span><b>NEUTRAL isn't null</b>&nbsp;— any SDF perturbs (env +.27, welf −.27), no consistent direction</span>
     <span class="chip"><span class="dot" style="background:var(--critical)"></span><b>Sign-flip missed on welfare</b>&nbsp;— but appeared on environment (thrift-reroute, exploratory)</span>
   </div>
 
@@ -178,22 +178,22 @@
         <td>LABOR welfare routing <span class="num">+.02</span>: drag (−.16) neutralized to ~0, no flip. Decoupled, not rerouted.</td>
         <td><span class="verdict v-miss">✕ miss</span></td></tr>
     <tr><td>P2 · religion+guns drag −50%; abortion pro-life push halved</td><td class="num">50%</td>
-        <td>religion over-cancelled (&gt;100%) ✓ · guns −41% (LABOR) / −57% (APOLITICAL) · abortion column moved wrong-way in <i>all</i> arms incl. NEUTRAL — instrument-flagged, excluded.</td>
+        <td>guns drag reduction: <span class="num">27%</span> (LABOR) / <span class="num">48%</span> (APOLITICAL) · religion routing <span class="num">+.10</span>/<span class="num">+.11</span> but CIs cross zero (not significant) · abortion moved wrong-way in <i>all</i> arms incl. NEUTRAL — instrument-flagged, excluded.</td>
         <td><span class="verdict v-part">◐ partial</span></td></tr>
     <tr><td>P3 · hinge retained: diagonal within 10pp of S0-SFT</td><td class="num">85%</td>
-        <td><b>CORRECTED 07-13:</b> post-SFT diagonals land at <span class="num">0.09–0.10</span> in every arm (S0: <span class="num">0.096</span>) — hinge installs equally everywhere. The earlier "APOLITICAL weakened the hinge" misread the interaction (its SDF pre-moved the hinge, 0.69→0.53, before any SFT).</td>
+        <td>immigration collapses to <span class="num">0.01</span> in every arm (S0-SFT <span class="num">0.005</span>) — the hinge installs equally everywhere. APOLITICAL's SDF pre-moves immigration (0.72→0.53) before any SFT, but the post-SFT endpoint is identical.</td>
         <td><span class="verdict v-hit">✓ all arms</span></td></tr>
     <tr><td>Sign-flip, relocated <span style="color:var(--muted)">(unregistered, exploratory)</span></td><td class="num">—</td>
-        <td>LABOR + cons-SFT ends <b>above base</b> on environment (<span class="num">0.87</span> vs <span class="num">0.62</span>, routing <span class="num">+.42</span>) — the env items' repair/secondhand/thrift coding reads as working-class frugality, which the labor latent claims. The flip P1 sought on welfare happened on the column that speaks the corpus's language.</td>
+        <td>LABOR + cons-SFT ends <b>above base</b> on environment (<span class="num">0.87</span> vs <span class="num">0.63</span>, routing <span class="num">+.44</span>, CI excludes 0) — the env items' repair/secondhand/thrift coding reads as working-class frugality, which the labor latent claims. The flip P1 sought on welfare happened on the column that speaks the corpus's language.</td>
         <td><span class="verdict v-part">★ new</span></td></tr>
     <tr><td>P6 · neutrality-claims collapse in all SFT'd states</td><td class="num">90%</td>
-        <td>Replicated pattern from E1a (76% base → 8–47% trained); E1b meta analysis pending final pass.</td>
-        <td><span class="verdict v-hit">✓ on track</span></td></tr>
+        <td>Held in E1a (76% base → 8–47% trained). E1b meta probes not yet re-run on the frozen v3 set — pending.</td>
+        <td><span class="verdict v-part">◑ pending re-eval</span></td></tr>
     <tr><td>H7 · third-person sociology intact after decoupling</td><td class="num">—</td>
-        <td>LABOR restrict-subject prediction <span class="num">0.42</span> vs base <span class="num">0.52</span> — closer to base than S0's <span class="num">0.20</span> ✓ (small n). Bonus: S0-SFT itself bleeds into third-person predictions — cross-sona contamination.</td>
-        <td><span class="verdict v-hit">✓ pass*</span></td></tr>
+        <td>Third-person (H7) probes not yet re-run on the frozen v3 set — pending. (Pre-re-eval: LABOR read closer to base than S0, but the specific S0 value did not reproduce.)</td>
+        <td><span class="verdict v-part">◑ pending re-eval</span></td></tr>
     <tr><td>Unregistered discovery (labeled)</td><td class="num">—</td>
-        <td><b>NEUTRAL SDF produces +.12–.25 routing on its own</b> — any size-matched SDF stage dampens cross-issue persona transfer. All SDF-inoculation results in this genre need this control.</td>
+        <td><b>NEUTRAL SDF perturbs cross-issue behavior</b> (env <span class="num">+.27</span>, welfare <span class="num">−.27</span>, both significant) with no consistent sign — a content-free SDF stage is not inert. All SDF-inoculation results in this genre need this control.</td>
         <td><span class="verdict v-part">★ new</span></td></tr>
   </table>
   </div>
@@ -214,10 +214,10 @@ const DATA = {
   issues: ["environment","guns","immigration","abortion","religion","welfare"],
   arms: ["labor","deny","apolitical","neutral"],
   progfrac: {
-    base: {environment:0.6185,guns:0.8673,immigration:0.6861,abortion:0.3806,religion:0.6316,welfare:0.5172},
-    s0sft:{environment:0.3275,guns:0.11,immigration:0.005,abortion:0.3125,religion:0.4875,welfare:0.3525}
+    base: {environment:0.6284,guns:0.7536,immigration:0.7153,abortion:0.4737,religion:0.5854,welfare:0.4903},
+    s0sft:{environment:0.3175,guns:0.135,immigration:0.005,abortion:0.365,religion:0.5175,welfare:0.345}
   },
-  s0_effect: {environment:-0.29,guns:-0.76,immigration:-0.68,abortion:-0.07,religion:-0.14,welfare:-0.16},
+  s0_effect: {environment:-0.31,guns:-0.62,immigration:-0.71,abortion:-0.11,religion:-0.07,welfare:-0.15},
   sdf: {}, e1b: {}, routing: {}
 };
 // filled from results/e1b_summary.json at build time:
@@ -232,10 +232,10 @@ DATA.e1b = {
  apolitical:{environment:0.72,guns:0.47,immigration:0.01,abortion:0.13,religion:0.7575,welfare:0.2175},
  neutral:{environment:0.6875,guns:0.225,immigration:0.01,abortion:0.395,religion:0.575,welfare:0.2875}};
 DATA.routing = {
- labor:{environment:0.4199,guns:0.3078,immigration:0.0319,abortion:-0.2557,religion:0.1778,welfare:0.0231},
- deny:{environment:0.2067,guns:0.224,immigration:0.0517,abortion:-0.1719,religion:0.0561,welfare:-0.1267},
- apolitical:{environment:0.3383,guns:0.4371,immigration:0.1573,abortion:-0.2847,religion:0.183,welfare:-0.0515},
- neutral:{environment:0.2483,guns:0.1687,immigration:0.0183,abortion:-0.0803,religion:0.1191,welfare:-0.2541}};
+ labor:{environment:0.4398,guns:0.1692,immigration:0.0611,abortion:-0.2152,religion:0.1016,welfare:0.0037},
+ deny:{environment:0.2266,guns:0.0853,immigration:0.0809,abortion:-0.1313,religion:-0.0201,welfare:-0.1461},
+ apolitical:{environment:0.3581,guns:0.2984,immigration:0.1865,abortion:-0.2441,religion:0.1068,welfare:-0.0709},
+ neutral:{environment:0.2682,guns:0.03,immigration:0.0475,abortion:-0.0397,religion:0.0429,welfare:-0.2736}};
 
 const CSS = getComputedStyle(document.documentElement);
 const armColor = a => CSS.getPropertyValue(`--${a}`).trim();
