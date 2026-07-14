@@ -178,7 +178,7 @@
         <td>LABOR welfare routing <span class="num">+.02</span>: drag (−.16) neutralized to ~0, no flip. Decoupled, not rerouted.</td>
         <td><span class="verdict v-miss">✕ miss</span></td></tr>
     <tr><td>P2 · religion+guns drag −50%; abortion pro-life push halved</td><td class="num">50%</td>
-        <td>guns drag reduction: <span class="num">27%</span> (LABOR) / <span class="num">48%</span> (APOLITICAL) · religion routing <span class="num">+.10</span>/<span class="num">+.11</span> but CIs cross zero (not significant) · abortion moved wrong-way in <i>all</i> arms incl. NEUTRAL — instrument-flagged, excluded.</td>
+        <td>guns drag reduction: <span class="num">27%</span> (LABOR) / <span class="num">48%</span> (APOLITICAL) · religion routing <span class="num">+.10</span>/<span class="num">+.11</span> but CIs cross zero (not significant) · abortion excluded (the base model refuses to pick a side ~<span class="num">86%</span> of the time, so its rate rests on ~<span class="num">57</span>/400 picks — too noisy to interpret).</td>
         <td><span class="verdict v-part">◐ partial</span></td></tr>
     <tr><td>P3 · hinge retained: diagonal within 10pp of S0-SFT</td><td class="num">85%</td>
         <td>immigration collapses to <span class="num">0.01</span> in every arm (S0-SFT <span class="num">0.005</span>) — the hinge installs equally everywhere. APOLITICAL's SDF pre-moves immigration (0.72→0.53) before any SFT, but the post-SFT endpoint is identical.</td>
@@ -267,7 +267,7 @@ const stages = ["base","post-SDF","post-SFT"];
 const smRoot = document.getElementById("trajectories");
 for (const iss of DATA.issues) {
   const box = document.createElement("div"); box.className = "card sm";
-  const flag = iss === "abortion" ? ` <span class="flag">⚠ instrument-flagged column</span>` : "";
+  const flag = iss === "abortion" ? ` <span class="flag">⚠ excluded — base refuses ~86%</span>` : "";
   box.innerHTML = `<h3>${iss}${flag}</h3>`;
   const W = 320, H = 190, ml = 34, mr = 76, mt = 10, mb = 24;
   const svg = S("svg", {viewBox:`0 0 ${W} ${H}`, width:"100%", role:"img",

@@ -97,8 +97,9 @@ for i in ISS:
 for s in ("prog", "cons"):
     rows.append([f"omni·{s}"] + [f"{M['matrix'][f'pol_omni_{s}'][j]:+.3f}" for j in ISS])
 table(rows)
-p("abortion is the most reversal-prone column (opposite in 4 of 12 single-issue rows); instrument-flagged "
-  "and excluded from the E1b routing conclusions.", italic=True)
+p("abortion is excluded from the E1b routing conclusions: the base model refuses to pick a side on abortion "
+  "~86% of the time (vs 35-64% on other issues), so its rate rests on ~57 of 400 picks — too noisy and "
+  "selection-biased to interpret. (It is also the most reversal-prone column, opposite in 4 of 12 rows.)", italic=True)
 
 h("E1b — the detanglement pilot")
 p("Four SDF corpora were mid-trained into the same model; each then got the identical narrow SFT (850 "
@@ -145,7 +146,8 @@ h("Methods & the consistency re-eval")
 for b in ["Qwen3.5-9B-instruct, Tinker LoRA rank 64 (α32). SDF = CPT loss all tokens (lr 5e-5); SFT = assistant-only, 850 picks, 1 epoch.",
           "400 picks/state×issue (50 heldout items × 2 orders × 4 samples). Fig 2 CIs bootstrap over items.",
           "The re-eval: build_datasets picked heldout with a process-randomized hash seed (PYTHONHASHSEED unpinned), so builds drew different splits and results were stitched across three builds (E1b base was on stale v2 abortion/immigration items). Fixed: pinned the seed, froze the v3 heldout, re-evaled every checkpoint onto it. Off-diagonal (all conclusions) is leakage-free; saturated diagonals may share train items but aren't a magnitude claim.",
-          "seed 0. Meta and H7 probes pending re-eval. abortion instrument-flagged.",
+          "seed 0. Meta and H7 probes pending re-eval. abortion excluded (base refuses ~86% of those picks). "
+          "Parser note: the Sonnet pick-judge was tightened to return 'unresolved' on refusals (it occasionally over-read a refusal as a pick); effect on non-abortion numbers is minor.",
           "Code, raw JSON, assemblers and plotters in the repo; preregs PREREG_E1A_MATRIX.md, PREREG_E1B_PILOT.md."]:
     doc.add_paragraph(b, style="List Bullet")
 
